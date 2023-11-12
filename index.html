@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dictionary</title>
+  <link rel="stylesheet" href="CSS/style.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    function checkKey(event) {
+        if (event.keyCode === 13) { // Код клавиши Enter
+            document.getElementById("search-btn").click();
+        }
+    }
+</script>
+  
+  <script>  
+    $(document).ready(function(){
+      $("#search-btn").click(function(){
+        var searchQuery = $("#search-input").val().toLowerCase();
+        $.get("dictionary.txt", function(data){
+          var lines = data.split("\n");
+          var results = [];
+          for(var i = 0; i < lines.length; i++){
+            var line = lines[i].toLowerCase();
+            if(line.indexOf(searchQuery) !== -1){
+              results.push(line);
+            }
+          }
+          var resultsHtml = "";
+          for(var j = 0; j < results.length; j++){
+            resultsHtml += "<li>" + results[j] + "</li>";
+          }
+          $("#search-results").html(resultsHtml);
+          
+        });
+      });
+    });
+  </script>
+</head>
+<body>
+  <h1>Starlight 2 Dictionary</h1>
+    <input type="text" id="search-input" placeholder="Search... "onkeydown="checkKey(event)">
+  <button id="search-btn">Translate</button>
+  <ul id="search-results"></ul>
+
+</body>
+<h5>Created by DoGGeD_MJ</h5>
+<h5><strong>Ссылка в Телеграмм, если у вас есть вопросы</strong> </h5>
+<a href="http://t.me/DoGGeD_M" target="_blank" >Telegram</a> 
+</html>
