@@ -665,6 +665,879 @@ You're good! : Ты хороший! - [jə ɡʊ] |SL-2|
 You're so sweet now! : Сейчас ты такой сладкий! - [jə ˈsəʊ ˈswi:t naʊ] |SL-2|
 yo-yo: йо-йо (игрушка) - [ˈjəʊ jəʊ] |SL-2|
 zebra : зебра - [ˈzebrə] |SL-2|
+a lot of : много - [ə lɒt ɒv]|SL-3|
+above : наверху - [əˈbʌv]|SL-3|
+actor : актёр - [ˈæktə]|SL-3|
+actress : актриса - [ˈæktrəs]|SL-3|
+aeroplane: самолёт - [ˈeərəpleɪn]|SL-3|
+afternoon : время после полудня - [ˌɑːftəˈnuːn]|SL-3|
+agent :агент - [ˈeɪdʒənt]|SL-3|
+agree : соглашаться  - [əˈɡriː]|SL-3|
+air : воздух - [eə]|SL-3|
+all day long : весь день  - [ɔ:l ˈdeɪ ˈlɒŋ]|SL-3|
+all over : повсюду - [ɔ:l ˈəʊvə]|SL-3|
+alright : в порядке - [ɔːlˈraɪt]|SL-3|
+aluminium : алюминий - [ˌæljəˈmɪniəm]|SL-3|
+always : всегда - [ˈɔːlweɪz]|SL-3|
+amazing : удивительный - [əˈmeɪzɪŋ]|SL-3|
+amusement ride:карусель - [əˈmjuːzmənt raɪd]|SL-3|
+angry :злой - [ˈæŋɡri]|SL-3|
+animal park : зоопарк  - [ænɪml pɑːk]|SL-3|
+another : другой - [əˈnʌðə]|SL-3|
+ant : муравей - [ænt]|SL-3|
+apple : яблоко  - [ˈæpl̩]|SL-3|
+arm : рука - [ɑːm]|SL-3|
+armchair :кресло - [ˈɑːmtʃeə]|SL-3|
+around : вокруг - [əˈraʊnd]|SL-3|
+arrive : приезжать - [əˈraɪv]|SL-3|
+as usual : как обычно - [əz ˈjuːʒʊəl]|SL-3|
+ask : спрашивать - [ɑːsk]|SL-3|
+astronaut : астронавт - [ˈæstrənɔːt]|SL-3|
+at last : наконец - [ət lɑːst]|SL-3|
+athlete :атлет - [ˈæθliːt]|SL-3|
+duck : утка - [dʌk]|SL-3|
+Australia : Австралия - [ɒˈstreɪliə]|SL-3|
+autumn : осень - [ˈɔːtəm]|SL-3|
+baby : малыш - [ˌbeɪbi ]|SL-3|
+back : спина - [ˈbæk]|SL-3|
+balcony :балкон - [ˈbælkəni]|SL-3|
+balloon : воздушный шарик - [bəˈluːn]|SL-3|
+banana : банан - [bəˈnɑːnə]|SL-3|
+band : музыкальная группа - [bænd]|SL-3|
+bandage : повязка, бинт - [ˈbændɪdʒ]|SL-3|
+bandana : бандана - [bænˈdænə]|SL-3|
+barn : амбар - [bɑːn]|SL-3|
+bath : ванна - [bɑːθ]|SL-3|
+bathroom : ванная комната - [ˈbɑːθruːm]|SL-3|
+be careful : будь осторожен - [bi ˈkeəfʊl]|SL-3|
+be in trouble : быть в беде - [bi ɪn ˈtrʌbl̩]|SL-3|
+be quiet : тише - [bi ˈkwaɪət]|SL-3|
+beach : пляж - [biːtʃ]|SL-3|
+beautiful : красивый - [ˈbjuːtəfl̩]|SL-3|
+bed : кровать - [bed]|SL-3|
+bedroom : спальня - [ˈbedruːm]|SL-3|
+bee : пчела - [biː]|SL-3|
+beef : говядина - [biːf]|SL-3|
+beetle : жук - [ˈbiːtl̩]|SL-3|
+before long : вскоре - [bɪˈfɔː ˈlɒŋ]|SL-3|
+behind : сзади - [bɪˈhaɪnd]|SL-3|
+best : лучший - [best]|SL-3|
+best friend : лучший друг  - [best ˈfrend]|SL-3|
+better : лучше - [ˈbetə]|SL-3|
+big : большой  - [bɪɡ]|SL-3|
+bike : велосипед - [baɪk]|SL-3|
+billion : миллион - [ˈbɪlɪəŋ]|SL-3|
+bird : птица - [bɜːd]|SL-3|
+birthday party : вечеринка в честь дня рождения - [ˈbɜːθdeɪ ˈpɑːti]|SL-3|
+black : чёрный - [blæk]|SL-3|
+blazer : пиджак, куртка  - [ˈbleɪzə]|SL-3|
+blow : надувать - [bləʊ]|SL-3|
+blue : синий  - [bluː]|SL-3|
+board : школьная доска, доска - [bɔːd]|SL-3|
+boat : лодка - [bəʊt]|SL-3|
+body: тело - [ˈbɒdi]|SL-3|
+book : книга  - [bʊk]|SL-3|
+bookcase : книжный шкаф - [ˈbʊk keɪs]|SL-3|
+boot : ботинок - [buːt]|SL-3|
+boring : скучный - [ˈbɔːrɪŋ]|SL-3|
+bottom : низ - [ˈbɒtəm]|SL-3|
+bow : кланяться - [baʊ]|SL-3|
+branch : ветка - [brɑːntʃ]|SL-3|
+brave : смелый - [breɪv]|SL-3|
+Brazil : Бразилия - [brəˈzɪl]|SL-3|
+bread : хлеб - [bred]|SL-3|
+breakfast : завтрак - [ˈbrekfəst]|SL-3|
+bring : приносить - [brɪŋ]|SL-3|
+brother : брат - [ˈbrʌðə]|SL-3|
+brush : наносить кисточкой (краску) - [brʌʃ]|SL-3|
+bubble : пузырь - [ˈbʌbl̩]|SL-3|
+bug : жук - [bʌɡ]|SL-3|
+build : строить - [bɪld]|SL-3|
+bulb : лампочка - [bʌlb]|SL-3|
+bull : бык - [bʊl]|SL-3|
+burger : бургер - [ˈbɜːɡə]|SL-3|
+bus : автобус - [bʌs]|SL-3|
+butter : масло - [ˈbʌtə]|SL-3|
+butterfly :бабочка - [ˈbʌtəflaɪ]|SL-3|
+buy : покупать - [baɪ]|SL-3|
+cake: торт, пирожное  - [keɪk]|SL-3|
+call : называть, звать; звонить  - [kɔːl]|SL-3|
+camera : фотоаппарат - [ˈkæmərə]|SL-3|
+Canada : Канада - [ˈkænədə]|SL-3|
+car : машина  - [kɑː]|SL-3|
+car: машина - [kɑː]|SL-3|
+careful : осторожный - [ˈkeəfʊl]|SL-3|
+carpet:ковёр - [ˈkɑːpɪt]|SL-3|
+carrot : морковь - [ˈkærət]|SL-3|
+carry : носить - [ˈkæri]|SL-3|
+carry on : продолжать - [ˈkæri ɒn]|SL-3|
+castle : замок - [ˈkɑːsl̩]|SL-3|
+cat : кошка - [kæt]|SL-3|
+catch :ловить - [ˈkætʃ]|SL-3|
+caterpillar : гусеница - [ˈkætəpɪlə]|SL-3|
+CD : компакт-диск - [ˌsiːˈdiː]|SL-3|
+celebrate : праздновать, отмечать - [ˈselɪbreɪt]|SL-3|
+cereal : кукурузные хлопья - [ˈsɪərɪəl]|SL-3|
+chair : стул - [tʃeə]|SL-3|
+champion : чемпион - [ˈtʃæmpɪən]|SL-3|
+chase : преследовать  - [tʃeɪs]|SL-3|
+cheer : подбадривать команду  - [tʃɪə]|SL-3|
+cheese : сыр - [tʃiːz]|SL-3|
+chess : шахматы - [tʃes]|SL-3|
+chicken :курица - [ˈtʃɪkɪn]|SL-3|
+child : ребенок - [tʃaɪld]|SL-3|
+China : Китай - [ˈtʃaɪnə]|SL-3|
+chocolate :шоколад - [ˈtʃɒklət]|SL-3|
+choose :выбирать - [tʃuːz]|SL-3|
+cinema : кинотеатр - [ˈsɪnəmə]|SL-3|
+circle : круг - [ˈsɜːkl̩]|SL-3|
+city : город - [ˈsɪti]|SL-3|
+clap : хлопать ( в ладоши) - [klæp]|SL-3|
+class : класс - [klɑːs]|SL-3|
+classroom : классная комната - [ˈklæsruːm]|SL-3|
+clean : чистый - [kliːn]|SL-3|
+cleaner : уборщик - [ˈkliːnə]|SL-3|
+clear : прозрачный - [klɪə]|SL-3|
+clever : умный - [ˈklevə]|SL-3|
+climb : взбираться - [klaɪm]|SL-3|
+clock : часы - [ˈklɒk]|SL-3|
+clothes : одежда - [kləʊðz]|SL-3|
+cloud :облако - [klaʊd]|SL-3|
+clown : клоун - [klaʊn]|SL-3|
+cold : холодный - [kəʊld]|SL-3|
+collect : собирать - [kəˈlekt]|SL-3|
+colour : 1. цвет: 2. раскрашивать - [ˈkʌlə]|SL-3|
+comb : причёсываться  - [kəʊm]|SL-3|
+come : приходить - [ˈkʌm]|SL-3|
+come back : возвращаться  - [ˈkʌm ˈbæk]|SL-3|
+come from : быть родом из  - [ˈkʌm frɒm]|SL-3|
+come in : входить  - [ˈkʌm ɪn]|SL-3|
+come out : выходить - [ˈkʌm ˈaʊt]|SL-3|
+computer : компьютер - [kəmˈpjuːtə]|SL-3|
+computer game : компьютерная игра - [kəmˈpjuːtə ɡeɪm]|SL-3|
+contest : соревнование - [kənˈtest]|SL-3|
+cooker: плита - [ˈkʊkə]|SL-3|
+cool : классный (сленг) - [kuːl]|SL-3|
+cool: классный - [kuːl]|SL-3|
+corn : кукуруза - [kɔːn]|SL-3|
+costume : карнавальный костюм - [ˈkɒstjuːm]|SL-3|
+count : считать - [kaʊnt]|SL-3|
+count on : рассчитывать на  - [kaʊnt ɒn]|SL-3|
+country : страна - [ˈkʌntri]|SL-3|
+cow : корова - [kaʊ]|SL-3|
+cross :1. крестик; 2. переходить  - [ˈkrɒs]|SL-3|
+crocodile : крокодил - [ˈkrɒkədaɪl]|SL-3|
+crossing : пешеходный переход - [ˈkrɒsɪŋ]|SL-3|
+crown : верхушка дерева  - [kraʊn]|SL-3|
+cry : кричать - [kraɪ]|SL-3|
+cry out : выкрикивать  - [kraɪ ˈaʊt]|SL-3|
+crystal glass : хрустальный стакан - [ˈkrɪstəl ˈɡlɑːs]|SL-3|
+cupboard : кухонный шкафчик - [ˈkʌbəd]|SL-3|
+curtain : занавеска - [ˈkɜːtn̩]|SL-3|
+cushion : диванная подушка - [ˈkʊʃn̩]|SL-3|
+cut : порез - [kʌt]|SL-3|
+cute : хорошенький, симпатичный - [kjuːt]|SL-3|
+dad : папа - [dæd]|SL-3|
+daddy: nana - [ˈdædi]|SL-3|
+dance : 1. танец; 2. танцевать - [dɑːns]|SL-3|
+dark cloud : туча - [dɑːk klaʊd]|SL-3|
+dark hair : тёмные волосы  - [dɑːk heə]|SL-3|
+dark: тёмный - [dɑːk]|SL-3|
+daughter : дочь - [ˈdɔːtə]|SL-3|
+day : день - [ˈdeɪ]|SL-3|
+dear : дорогой - [dɪə]|SL-3|
+decide : решать - [dɪˈsaɪd]|SL-3|
+delicious : вкусный - [dɪˈlɪʃəs]|SL-3|
+desk : парта - [desk]|SL-3|
+Did you know? : Ты знал знала? - [dɪd ju ˈnəʊ?]|SL-3|
+different : разный - [ˈdɪfrənt]|SL-3|
+dinner : ужин - [ˈdɪnə]|SL-3|
+dirty : грязный - [ˈdɜːti]|SL-3|
+do homework : делать уроки - [du: ˈhəʊmwɜːk]|SL-3|
+do karate : заниматься карате - [du: kəˈrɑːti]|SL-3|
+dog : собака  - [dɒɡ]|SL-3|
+doll : кукла - [dɒl]|SL-3|
+dolphin: дельфин - [ˈdɒlfɪn]|SL-3|
+Don't be silly! : Не глупи! - [dəʊnt bi ˈsɪli!]|SL-3|
+Don't worry. : Не волнуйся. - [dəʊnt ˈwʌri.]|SL-3|
+door : дверь - [dɔː]|SL-3|
+draw : рисовать  - [drɔː]|SL-3|
+dress : платье - [dres]|SL-3|
+drink : пить - [drɪŋk]|SL-3|
+drive : водить (машину) - [draɪv]|SL-3|
+dumb : глупый - [dʌm]|SL-3|
+during : во время - [ˈdjʊərɪŋ]|SL-3|
+dust :пыль - [dʌst]|SL-3|
+ear : ухо - [ɪə]|SL-3|
+Earth : Земля  - [ɜːθ]|SL-3|
+eat : есть  - [iːt]|SL-3|
+eat: есть - [iːt]|SL-3|
+egg : яйцо - [eɡ]|SL-3|
+eight : восемь - [eɪt]|SL-3|
+eighteen : восемнадцать - [ˌeɪˈtiːn]|SL-3|
+elephant : слон - [ˈelɪfənt]|SL-3|
+eleven :одиннадцать - [ɪˈlevn̩]|SL-3|
+elf : эльф - [elf]|SL-3|
+energy : энергия - [ˈenədʒi]|SL-3|
+England : Англия - [ˈɪŋɡlənd]|SL-3|
+enjoy : наслаждаться - [ɪnˈdʒɔɪ]|SL-3|
+environment : окружающая среда - [ɪnˈvaɪərənmənt]|SL-3|
+evening : вечер - [ˈiːvn̩ɪŋ]|SL-3|
+everyone : все - [ˈevrɪwʌn]|SL-3|
+everywhere : везде - [ˈevrɪweə]|SL-3|
+excited : взволнованный - [ɪkˈsaɪtɪd]|SL-3|
+extra : лишний, дополнительный  - [ˈekstrə]|SL-3|
+eye : глаз - [aɪ]|SL-3|
+face :лицо - [feɪs]|SL-3|
+fail : проигрывать - [feɪl]|SL-3|
+fair hair : светлые волосы  - [feə heə]|SL-3|
+fairy :фея - [ˈfeəri]|SL-3|
+fairy cake : волшебное пирожное - [ˈfeəri keɪk]|SL-3|
+fall : падать - [fɔːl]|SL-3|
+false : неверно - [ˈfɔːls]|SL-3|
+family : семья - [ˈfæmli]|SL-3|
+famous : известный - [ˈfeɪməs]|SL-3|
+fantastic : потрясающий - [fænˈtæstɪk]|SL-3|
+far : далеко - [ˈfɑː]|SL-3|
+far too high : слишком высоко  - [ˈfɑː tuː haɪ]|SL-3|
+farm : ферма  - [fɑːm]|SL-3|
+farmer : фермер - [ˈfɑːmə]|SL-3|
+fast : быстрый - [fɑːst]|SL-3|
+fat : толстый - [fæt]|SL-3|
+favourite : любимый - [ˈfeɪvərɪt]|SL-3|
+feast : пир - [fiːst]|SL-3|
+feel : чувствовать - [fiːl]|SL-3|
+feel sorry for : жалеть - [fiːl ˈsɒri fɔː]|SL-3|
+feet: ступни - [fiːt]|SL-3|
+field : поле - [fiːld]|SL-3|
+: пятьдесят  - [ˈfɪfti]|SL-3|
+fifteen : пятнадцать - [ˌfɪfˈtiːn]|SL-3|
+fight : драться - [faɪt]|SL-3|
+finger : палец - [ˈfɪŋɡə]|SL-3|
+fire : огонь - [ˈfaɪə]|SL-3|
+fire engine : пожарная машина - [faɪər endʒɪn]|SL-3|
+fireman : пожарный - [ˈfaɪəmən]|SL-3|
+fireplace :камин - [ˈfaɪəpleɪs]|SL-3|
+first : первый - [ˈfɜːst]|SL-3|
+fish : рыба - [fɪʃ]|SL-3|
+five : пять - [faɪv]|SL-3|
+flag : флаг - [flæɡ]|SL-3|
+flat : примятый - [flæt]|SL-3|
+floor : пол, этаж - [flɔː]|SL-3|
+flour : мука - [ˈflaʊə]|SL-3|
+fly : летать  - [flaɪ]|SL-3|
+fly away : улетать - [flaɪ əˈweɪ]|SL-3|
+football team   : футбольная команда - [ˈfʊtbɔːl tiːm]|SL-3|
+follow : следовать (за) - [ˈfɒləʊ]|SL-3|
+food : еда - [fuːd]|SL-3|
+foot : ступня  - [fʊt]|SL-3|
+footprint : след - [ˈfʊtprɪnt]|SL-3|
+forest :лес - [ˈfɒrɪst]|SL-3|
+forty : сорок - [ˈfɔːti]|SL-3|
+forty:six  - [ˈfɔːti]|SL-3|
+four : четыре  - [fɔː]|SL-3|
+fourteen : четырнадцать - [ˌfɔːˈtiːn]|SL-3|
+flower : цветок - [ˈflaʊə]|SL-3|
+fox : лиса - [fɒks]|SL-3|
+France : Франция - [frɑːns]|SL-3|
+fresh : свежий - [freʃ]|SL-3|
+Friday : пятница - [ˈfraɪdeɪ]|SL-3|
+fridge : холодильник - [frɪdʒ]|SL-3|
+friend : друг - [ˈfrend]|SL-3|
+frightened : испуганный - [ˈfraɪtn̩d]|SL-3|
+frog : лягушка - [frɒɡ]|SL-3|
+fruit : фрукт - [fruːt]|SL-3|
+full of : наполненный  - [ˈfʊl ɒv]|SL-3|
+fun : веселье - [fʌn]|SL-3|
+funfair : ярмарка - [ˈfʌnfeə]|SL-3|
+funny : смешной - [ˈfʌni]|SL-3|
+game : игра - [ɡeɪm]|SL-3|
+garage : гараж - [ˈɡærɑːʒ]|SL-3|
+garden : сад - [ˈɡɑːdn̩]|SL-3|
+garlic :чеснок - [ˈɡɑːlɪk]|SL-3|
+Germany : Германия - [ˈdʒɜːməni]|SL-3|
+get : получать, становиться, добираться - [ˈɡet]|SL-3|
+get in : залезать в - [ˈget ɪn]|SL-3|
+get in someone's way : помешать кому-либо - [ˈget ɪn ˈsəˌmwənz ˈweɪ]|SL-3|
+get in the way : стоять на пути, мешать - [ˈget ɪn ðə ˈweɪ]|SL-3|
+get up : вставать  - [ˈget ˈʌp]|SL-3|
+get wet : промокнуть  - [ˈget wet]|SL-3|
+ghost : привидение - [ɡəʊst]|SL-3|
+giraffe : жираф - [dʒɪˈrɑːf]|SL-3|
+girl : девочка - [ɡɜːl]|SL-3|
+give : давать - [ɡɪv]|SL-3|
+glad : радостный, довольный  - [ɡlæd]|SL-3|
+glass : стакан - [ˈɡlɑːs]|SL-3|
+glasses : очки - [ˈɡlɑːsɪz]|SL-3|
+go : идти, ехать  - [ˈɡəʊ]|SL-3|
+go away : уходить  - [ˈɡəʊ əˈweɪ]|SL-3|
+go back : возвращаться - [ˈɡəʊ ˈbæk]|SL-3|
+go jogging : ходить на пробежку  - [ˈɡəʊ ˈdʒɒɡɪŋ]|SL-3|
+go to bed : ложиться спать - [ˈɡəʊ tu bed]|SL-3|
+go to work : ходить на работу  - [ˈɡəʊ tu ˈwɜːk]|SL-3|
+goat : козёл - [ɡəʊt]|SL-3|
+gold : 1. золото; 2. золотой  - [ɡəʊld]|SL-3|
+golden : золотистый - [ˈɡəʊldən]|SL-3|
+Good idea! : Хорошая идея!  - [gʊ aɪˈdɪə!]|SL-3|
+grab : хватать - [ɡræb]|SL-3|
+grandma : бабушка - [ˈɡrænmɑː]|SL-3|
+grandmaster : гроссмейстер - [ˌɡrændˈmæstə]|SL-3|
+grandpa : дедушка - [ˈɡrænpɑː]|SL-3|
+grass :трава - [ɡrɑːs]|SL-3|
+green : зелёный - [ˈɡriːn]|SL-3|
+grey : серый - [ɡreɪ]|SL-3|
+ground : земля - [ɡraʊnd]|SL-3|
+grow : расти - [ɡrəʊ]|SL-3|
+grown-up : взрослый - [ˈɡrəʊn ʌp]|SL-3|
+guard : охранять - [ɡɑːd]|SL-3|
+guess : угадывать - [ɡes]|SL-3|
+guest :гость - [ɡest]|SL-3|
+guitar : гитара - [ɡɪˈtɑː]|SL-3|
+hair : волосы - [heə]|SL-3|
+halfway : полчаса - [hɑːfˈweɪ]|SL-3|
+hand : рука (кисть) - [hænd]|SL-3|
+handsome : красивый - [ˈhænsəm]|SL-3|
+happen : случаться - [ˈhæpən]|SL-3|
+happily : счастливо - [ˈhæpɪli]|SL-3|
+happily ever after : долго и счастливо - [ˈhæpɪli ˈevər ˈɑːftə]|SL-3|
+happy : счастливый - [ˈhæpi]|SL-3|
+Happy Birthday! : С Днём рождения! - [ˈhæpi ˈbɜːθdeɪ!]|SL-3|
+hard : усердно - [hɑːd]|SL-3|
+hare :заяц - [heə]|SL-3|
+hat : шляпа - [hæt]|SL-3|
+have a bath : принимать ванну  - [həv ə bɑːθ]|SL-3|
+have a shower : принимать душ - [həv ə ˈʃaʊə]|SL-3|
+have breakfast : завтракать  - [həv ˈbrekfəst]|SL-3|
+head : голова  - [hed]|SL-3|
+hear : слышать - [hɪə]|SL-3|
+hear about : слышать о  - [hɪər əˈbaʊt]|SL-3|
+heart: сердце  - [hɑːt]|SL-3|
+heavy : тяжёлый - [ˈhevi]|SL-3|
+helicopter : вертолёт - [ˈhelɪkɒptə]|SL-3|
+helmet : шлем - [ˈhelmɪt]|SL-3|
+help : 1. помощь; 2. помогать - [help]|SL-3|
+hen : курица - [hen]|SL-3|
+here : здесь - [hɪə]|SL-3|
+Here you are! : Вот, пожалуйста! - [hɪə ju ɑː!]|SL-3|
+hero : герой - [ˈhɪərəʊ]|SL-3|
+herself : сама себя - [hɜːˈself]|SL-3|
+hide : прятать(ся) - [haɪd]|SL-3|
+high : 1. высокий; 2, высоко - [haɪ]|SL-3|
+hippo : гиппопотам - [ˈhɪpəʊ]|SL-3|
+home : дом - [həʊm, hoʊm]|SL-3|
+homework :домашняя работа - [ˈhəʊmwɜːk]|SL-3|
+honest :честный - [ˈɒnɪst]|SL-3|
+honey : мёд - [ˈhʌni]|SL-3|
+hop : прыгать, скакать  - [hɒp]|SL-3|
+hop away : ускакать  - [ˈhɒp əˈweɪ]|SL-3|
+horse : лошадь - [hɔːs]|SL-3|
+hot : жаркий - [hɒt]|SL-3|
+hot dog : хот-дог - [ˈhɒt dɒɡ]|SL-3|
+hour : час - [ˈaʊə]|SL-3|
+house :дом - [ˈhaʊs]|SL-3|
+How do you spell it? : Как это произносится? - [ˌhaʊ du: ju spel ˈɪt?]|SL-3|
+how many : сколько - [ˈhaʊ məni]|SL-3|
+How old are you? : Сколько тебе лет? - [ˌhaʊ əʊld ə ju?]|SL-3|
+hungry : голодный - [ˈhʌŋɡri]|SL-3|
+husband : муж - [ˈhʌzbənd]|SL-3|
+ice cream: мороженое - [ˈaɪs kri:m]|SL-3|
+ice-skating : катание на коньках - [ˈaɪs skeɪtɪŋ]|SL-3|
+idea : идея - [aɪˈdɪə]|SL-3|
+in need : в нужде - [ɪn niːd]|SL-3|
+in the afternoon : днём - [ɪn ði ˌɑːftəˈnuːn]|SL-3|
+indeed: действительно - [ɪnˈdiːd]|SL-3|
+India : Индия - [ˈɪndɪə]|SL-3|
+information : информация - [ˌɪnfəˈmeɪʃn̩]|SL-3|
+invite :приглашать - [ɪnˈvaɪt]|SL-3|
+insect : насекомое  - [ˈɪnsekt]|SL-3|
+international : международный - [ˌɪntəˈnæʃn̩əl]|SL-3|
+Ireland : Ирландия - [ˈaɪələnd]|SL-3|
+It's cold! :Холодно! - [ˈɪts kəʊld!]|SL-3|
+It's cool! :Классно! (сленг)  - [ˈɪts kuːl!]|SL-3|
+It's hot! :Жарко!  - [ˈɪts hɒt!]|SL-3|
+It's nothing. : Ничего страшного - [ˈɪts ˈnʌθɪŋ.]|SL-3|
+It's raining! : Идёт дождь!  - [ˈɪts ˈreɪnɪŋ!]|SL-3|
+It's snowing! : Идёт снег! - [ˈɪts ˈsnəʊɪŋ!]|SL-3|
+It's sunny! : Солнечно! - [ˈɪts ˈsʌni!]|SL-3|
+It's windy! : Ветрено!  - [ˈɪts ˈwindi!]|SL-3|
+itsy-bitsy : крошечный - [ˌɪtsiˈbɪtsi]|SL-3|
+I've got an idea! : У меня идея! - [aɪv ˈɡɒt ən aɪˈdɪə!]|SL-3|
+jacket : куртка - [ˈdʒækɪt]|SL-3|
+Japan : Япония - [dʒəˈpæn]|SL-3|
+jar : кувшин - [dʒɑː]|SL-3|
+job : работа - [dʒɒb]|SL-3|
+jogging : бегать - [ˈdʒɒɡɪŋ]|SL-3|
+join : соединять,присоединяться  - [dʒɔɪn]|SL-3|
+joy :радость - [dʒɔɪ]|SL-3|
+juggle : жонглировать - [ˈdʒʌɡl̩]|SL-3|
+juice : cok - [dʒuːs]|SL-3|
+jump : прыгать - [dʒʌmp]|SL-3|
+jumper : джемпер - [ˈdʒʌmpə]|SL-3|
+kangaroo : кенгуру - [ˌkæŋɡəˈruː]|SL-3|
+karate : карате - [kəˈrɑːti]|SL-3|
+kind : 1. вид: 2. добрый - [kaɪnd]|SL-3|
+king : король - [kɪŋ]|SL-3|
+kitchen : кухня - [ˈkɪtʃən]|SL-3|
+kitchen stove : плита - [ˌkɪtʃən stəʊv]|SL-3|
+kite : воздушный змей - [kaɪt]|SL-3|
+kitten : котёнок - [ˈkɪtn̩]|SL-3|
+knife : нож - [naɪf]|SL-3|
+knight : рыцарь - [naɪt]|SL-3|
+know : знать - [ˈnəʊ]|SL-3|
+ladybird : божья коровка - [ˈleɪdɪbɜːd]|SL-3|
+lamp : лампа - [læmp]|SL-3|
+land : страна, земля  - [lænd]|SL-3|
+last : последний  - [lɑːst]|SL-3|
+late : поздно - [leɪt]|SL-3|
+later : позже - [ˈleɪtə]|SL-3|
+laugh : смеяться  - [lɑːf]|SL-3|
+leaf : листок - [liːf]|SL-3|
+leave : покидать, оставлять - [liːv]|SL-3|
+left : 1. левый, 2. налево - [left]|SL-3|
+leg : нога - [leɡ]|SL-3|
+let : позволять - [let]|SL-3|
+Let me go. : Отпусти меня. - [ˈlet miː ˈɡəʊ.]|SL-3|
+let me know : дай мне знать - [ˈlet miː ˈnəʊ]|SL-3|
+Let's : Давай... - [lets]|SL-3|
+letter : письмо - [ˈletə]|SL-3|
+lettuce : зелёный салат - [ˈletɪs]|SL-3|
+lick : лизать - [lɪk]|SL-3|
+lie : лгать, обманывать  - [laɪ]|SL-3|
+life :жизнь - [laɪf]|SL-3|
+light : свет - [laɪt]|SL-3|
+light : светлый - [laɪt]|SL-3|
+like : нравиться - [ˈlaɪk]|SL-3|
+lion : лев - [ˈlaɪən]|SL-3|
+listen : слушать - [ˈlɪsn̩]|SL-3|
+listen to music : слушать музыку  - [ˈlɪsn̩ tu ˈmjuːzɪk]|SL-3|
+little : маленький - [ˈlɪtl̩]|SL-3|
+live : жить - [laɪv]|SL-3|
+living room : гостиная - [ˈlɪvɪŋ ru:m]|SL-3|
+long : длинный  - [ˈlɒŋ]|SL-3|
+long hair : длинные волосы  - [lɒŋ heə]|SL-3|
+look : смотреть - [ˈlʊk]|SL-3|
+look at : смотреть на - [ˈlʊk æt]|SL-3|
+look up to : равняться на - [ˈlʊk ˈʌp tuː]|SL-3|
+lorry : грузовик  - [ˈlɒri]|SL-3|
+loud : громкий - [laʊd]|SL-3|
+love : 1…любовь; 2. любить  - [ˈlʌv]|SL-3|
+lovely : прелестный - [ˈlʌvli]|SL-3|
+loving : любящий - [ˈlʌvɪŋ]|SL-3|
+luck: удача - [lʌk]|SL-3|
+lunch : трапеза в середине дня, обед, ланч - [ˈlʌntʃ]|SL-3|
+lunch box : коробка для обеда - [ˈlʌntʃ bɒks]|SL-3|
+ lunchtime : время обеда - [ˈlʌntʃtaɪm]|SL-3|
+magic : 1. волшебство; 2. волшебный - [ˈmædʒɪk]|SL-3|
+magic trick : фокус - [ˈmædʒɪk trɪk]|SL-3|
+magical : волшебный - [ˈmædʒɪkl̩]|SL-3|
+magician: волшебник - [məˈdʒɪʃn̩]|SL-3|
+make : делать  - [ˈmeɪk]|SL-3|
+make someone laugh : смешить кого-либо - [ˈmeɪk ˈsʌmwʌn lɑːf]|SL-3|
+man : человек, мужчина  - [θɜː]|SL-3|
+many : много - [ˈmeni]|SL-3|
+marry : жениться, выходить замуж - [ˈmæri]|SL-3|
+Mars : Mapc - [mɑːz]|SL-3|
+marvellous : изумительный - [ˈmɑːvləs]|SL-3|
+mask : маска - [mɑːsk]|SL-3|
+meal : трапеза - [miːl]|SL-3|
+mean : означать - [miːn]|SL-3|
+meat: мясо - [miːt]|SL-3|
+meet: встречать - [miːt]|SL-3|
+Merry Christmas! : Весёлого Рождества! - [ˈmeri ˈkrɪsməs!]|SL-3|
+mess : беспорядок - [mes]|SL-3|
+metre : метр - [ˈmiːtə]|SL-3|
+milk: молоко - [mɪlk]|SL-3|
+milkman : молочник - [ˈmɪlkmən]|SL-3|
+mind : против - [maɪnd]|SL-3|
+minute :минута - [maɪˈnjuːt]|SL-3|
+mirror : зеркало - [ˈmɪrə]|SL-3|
+moment : момент - [ˈməʊmənt]|SL-3|
+Monday : понедельник - [ˈmʌndeɪ]|SL-3|
+monkey : обезьяна - [ˈmʌŋki]|SL-3|
+monster : монстр - [ˈmɒnstə]|SL-3|
+moon : луна - [muːn]|SL-3|
+moonlight : лунный свет - [ˈmuːnlaɪt]|SL-3|
+morning : утро - [ˈmɔːnɪŋ]|SL-3|
+mosquito : комар - [məˈskiːtəʊ]|SL-3|
+most : большинство, больше всего - [məʊst]|SL-3|
+mother : мать - [ˈmʌðə]|SL-3|
+Mother's Day : День матери - [ˈmʌðəz ˈdeɪ]|SL-3|
+motorbike : мотоцикл - [ˈməʊtəbaɪk]|SL-3|
+mountain : гopa  - [ˈmaʊntɪn]|SL-3|
+mouse : мышь - [maʊs]|SL-3|
+mouth : poт - [maʊθ]|SL-3|
+mug : кружка - [mʌɡ]|SL-3|
+mum : мама - [mʌm]|SL-3|
+mummy : мама - [ˈmʌmi]|SL-3|
+mushroom : гриб - [ˈmʌʃrʊm]|SL-3|
+music : музыка - [ˈmjuːzɪk]|SL-3|
+must: должен - [mʌst]|SL-3|
+name : имя - [ˈneɪm]|SL-3|
+need : нуждаться  - [niːd]|SL-3|
+nest : гнездо  - [nest]|SL-3|
+never : никогда  - [ˈnevə]|SL-3|
+new : новый - [njuː]|SL-3|
+next to : около, рядом с - [nekst tuː]|SL-3|
+nice : милый - [naɪs]|SL-3|
+Nice to meet you. : Приятно познакомиться. - [naɪs tu miːt ju.]|SL-3|
+night : ночь - [naɪt]|SL-3|
+night: ночь, вечер - [naɪt]|SL-3|
+nine : девять  - [naɪn]|SL-3|
+nineteen : девятнадцать - [ˌnaɪnˈtiːn]|SL-3|
+noise : шум - [nɔɪz]|SL-3|
+nose : нoc - [nəʊz]|SL-3|
+notebook : блокнот - [ˈnəʊtbʊk]|SL-3|
+nothing : ничего - [ˈnʌθɪŋ]|SL-3|
+number : номер, число - [ˈnʌmbə]|SL-3|
+nut : opex - [nʌt]|SL-3|
+of course : конечно - [əv kɔːs]|SL-3|
+old : старый - [əʊld]|SL-3|
+on the way : по пути  - [ˈɒn ðə ˈweɪ]|SL-3|
+one : один - [wʌn]|SL-3|
+open : открывать - [ˈəʊpən]|SL-3|
+Open your book : Открой книгу. - [ˈəʊpən jə bʊk]|SL-3|
+orange : 1. апельсин; 2. оранжевый - [ˈɒrɪndʒ]|SL-3|
+outside : снаружи - [ˌaʊtˈsaɪd]|SL-3|
+owl : сова - [aʊl]|SL-3|
+pack: укладывать - [pæk]|SL-3|
+page : страница  - [peɪdʒ]|SL-3|
+paint : 1. краска; 2. рисовать  - [peɪnt]|SL-3|
+palace : дворец - [ˈpælɪs]|SL-3|
+pale : бледный  - [peɪl]|SL-3|
+paper : бумага - [ˈpeɪpə]|SL-3|
+park : парк - [pɑːk]|SL-3|
+party : вечеринка - [ˈpɑːti]|SL-3|
+pea : горошина - [piː]|SL-3|
+pencil : карандаш - [ˈpensl̩]|SL-3|
+pencil case : пенал - [ˈpensl̩ keɪs]|SL-3|
+people : люди - [ˈpiːpl̩]|SL-3|
+perhaps : возможно - [pəˈhæps]|SL-3|
+permission : разрешение - [pəˈmɪʃn̩]|SL-3|
+person : человек - [ˈpɜːsn̩]|SL-3|
+phone : телефон  - [fəʊn]|SL-3|
+pick: собирать  - [pɪk]|SL-3|
+picture : рисунок, картинка - [ˈpɪktʃə]|SL-3|
+pie : пирог - [paɪ]|SL-3|
+pine : ель - [paɪn]|SL-3|
+pineapple : ананас - [ˈpaɪnæpl̩]|SL-3|
+pink : розовый - [pɪŋk]|SL-3|
+place : место - [ˈpleɪs]|SL-3|
+plane : самолёт - [pleɪn]|SL-3|
+planet : планета - [ˈplænɪt]|SL-3|
+plant : растение - [plɑːnt]|SL-3|
+plastic : пластмассовый - [ˈplæstɪk]|SL-3|
+plate : тарелка - [pleɪt]|SL-3|
+play : играть - [ˈpleɪ]|SL-3|
+play the piano :играть на пианино  - [pleɪ ðə pɪˈænəʊ]|SL-3|
+please : пожалуйста роет  - [pliːz]|SL-3|
+point : указывать  - [pɔɪnt]|SL-3|
+poem: стихотворение - [ˈpəʊɪm]|SL-3|
+policeman : полицейский - [pəˈliːsmən]|SL-3|
+poor : бедный - [pɔː]|SL-3|
+popcorn : попкорн - [ˈpɒpkɔːn]|SL-3|
+postman : почтальон - [ˈpəʊstmən]|SL-3|
+potato : картофель - [pəˈteɪtəʊ]|SL-3|
+power : энергия  - [ˈpaʊə]|SL-3|
+present : подарок - [prɪˈzent]|SL-3|
+press : прижимать  - [pres]|SL-3|
+pretty : 1. хорошенький(ая); 2. довольно - [ˈprɪti]|SL-3|
+princess : принцесса - [prɪnˈses]|SL-3|
+problem : проблема - [ˈprɒbləm]|SL-3|
+produce : производить - [prəˈdjuːs]|SL-3|
+proud : гордый - [praʊd]|SL-3|
+pumpkin : тыква - [ˈpʌmpkɪn]|SL-3|
+puppy : щенок - [ˈpʌpi]|SL-3|
+purple : фиолетовый - [ˈpɜːpl̩]|SL-3|
+put : класть - [ˈpʊt]|SL-3|
+put on: одевать - [ˈpʊt ɒn]|SL-3|
+queen : королева - [kwiːn]|SL-3|
+quick : быстрый  - [kwɪk]|SL-3|
+quickly : быстро - [ˈkwɪkli]|SL-3|
+quiet : тихий - [ˈkwaɪət]|SL-3|
+quite : довольно - [kwaɪt]|SL-3|
+rabbit : кролик - [ˈræbɪt]|SL-3|
+radio : радио - [ˈreɪdɪəʊ]|SL-3|
+rain : дождь - [ˈreɪn]|SL-3|
+rainbow : радуга - [ˈreɪnbəʊ]|SL-3|
+read : читать  - [riːd]|SL-3|
+real : настоящий - [rɪəl]|SL-3|
+really : действительно  - [ˈrɪəli]|SL-3|
+recycle : перерабатывать - [ˌriːˈsaɪkl̩]|SL-3|
+recycling bin : мусорный контейнер - [ˌriːˈsaɪkl̩ɪŋ bɪn]|SL-3|
+red : красный  - [red]|SL-3|
+rein : вожжи, поводья - [reɪn]|SL-3|
+remember : помнить - [rɪˈmembə]|SL-3|
+rhino : носорог - [ˈraɪnəʊ]|SL-3|
+rice : рис - [raɪs]|SL-3|
+rich :богатый - [rɪtʃ]|SL-3|
+ride : кататься верхом - [raɪd]|SL-3|
+ride a horse : ездить на лошади  - [raɪd ə hɔːs]|SL-3|
+ride off : уезжать - [raɪd ɒf]|SL-3|
+right : 1. право; 2. правильный - [raɪt]|SL-3|
+ring : кольцо - [rɪŋ]|SL-3|
+role : роль - [rəʊl]|SL-3|
+roller skate : кататься на роликах  - [ˈrəʊlə skeɪt]|SL-3|
+roller skates : ролики - [ˈrəʊlə skeɪts]|SL-3|
+root: корень - [ruːt]|SL-3|
+rubber : ластик - [ˈrʌbə]|SL-3|
+rule : правило  - [ruːl]|SL-3|
+ruler : линейка - [ˈruːlə]|SL-3|
+run : бежать - [rʌn]|SL-3|
+run away : убегать - [ˈrʌn əˈweɪ]|SL-3|
+Run back : возвращаться - [ˈrʌn ˈbæk]|SL-3|
+Russia : Россия - [ˈrʌʃə]|SL-3|
+rap: рэп - [ræp]|SL-3|
+sad : грустный - [sæd]|SL-3|
+saddle : седло - [ˈsædl̩]|SL-3|
+safari: сафари - [səˈfɑːri]|SL-3|
+safe : безопасный  - [seɪf]|SL-3|
+sail : плавать - [seɪl]|SL-3|
+sandwich : бутерброд - [ˈsænwɪdʒ]|SL-3|
+Santa : Санта - [ˈsæntə]|SL-3|
+Saturday : суббота - [ˈsætədeɪ]|SL-3|
+sausage : сосиска - [ˈsɒsɪdʒ]|SL-3|
+say : говорить - [ˈseɪ]|SL-3|
+school: школа - [skuːl]|SL-3|
+schoolbag : портфель, ранец - [sku:l bæɡ]|SL-3|
+seal: тюлень, морской котик  - [siːl]|SL-3|
+season : время года - [ˈsiːzn̩]|SL-3|
+seat bell : ремень безопасности - [si:t bel]|SL-3|
+second : второй - [ˈsekənd]|SL-3|
+secret : секретный - [ˈsiːkrɪt]|SL-3|
+secret agent : секретный агент  - [ˈsiːkrɪt ˈeɪdʒənt]|SL-3|
+secret message : секретное сообщение - [ˈsiːkrɪt ˈmesɪdʒ]|SL-3|
+see : смотреть, видеть - [ˈsiː]|SL-3|
+seed : семечко  - [siːd]|SL-3|
+serve : обслуживать, подавать  - [sɜːv]|SL-3|
+set sail : отправляться в плавание - [set seɪl]|SL-3|
+seven : семь - [ˈsevn̩]|SL-3|
+seventeen : семнадцать - [ˌsevnˈtiːn]|SL-3|
+shake : трясти - [ʃeɪk]|SL-3|
+sharpener : точилка - [ˈʃɑːpnə]|SL-3|
+sheep: овца - [ʃiːp]|SL-3|
+sheet of paper : листок бумаги  - [ʃi:t əv ˈpeɪpə]|SL-3|
+shine : светить - [ʃaɪn]|SL-3|
+shiny : светящийся  - [ˈʃaɪni]|SL-3|
+shirt : рубашка - [ʃɜːt]|SL-3|
+shocked :потрясённый - [ʃɒkt]|SL-3|
+shoe : туфля - [ʃuː]|SL-3|
+short : короткий  - [ʃɔːt]|SL-3|
+shorts : шорты - [ʃɔːts]|SL-3|
+shout : кричать - [ʃaʊt]|SL-3|
+shower : душ - [ˈʃaʊə]|SL-3|
+silly : глупый - [ˈsɪli]|SL-3|
+silver : серебряный - [ˈsɪlvə]|SL-3|
+sing : петь - [sɪŋ]|SL-3|
+sing along : подпевать - [sɪŋ əˈlɒŋ]|SL-3|
+singer : певец - [ˈsɪŋə]|SL-3|
+sink : раковина - [sɪŋk]|SL-3|
+sister : сестра - [ˈsɪstə]|SL-3|
+sit : сидеть  - [sɪt]|SL-3|
+sit down : садиться  - [ˈsɪt grey area]|SL-3|
+six : шесть  - [sɪks]|SL-3|
+sixteen : шестнадцать - [sɪkˈstiːn]|SL-3|
+skate : кататься на коньках - [skeɪt]|SL-3|
+skirt : юбка - [skɜːt]|SL-3|
+sky : небо - [skaɪ]|SL-3|
+sleep : спать - [sliːp]|SL-3|
+slow : медленный  - [sləʊ]|SL-3|
+small : маленький  - [smɔːl]|SL-3|
+smell : нюхать  - [smel]|SL-3|
+smile : улыбаться - [smaɪl]|SL-3|
+snail : улитка - [sneɪl]|SL-3|
+snow : снег - [snəʊ]|SL-3|
+snowman : снеговик - [ˈsnəʊmæn]|SL-3|
+sock : носок - [ˈsɒk]|SL-3|
+sofa : диван - [ˈsəʊfə]|SL-3|
+someone :кто-то - [ˈsʌmwʌn]|SL-3|
+something : кое-что, что-то - [ˈsʌmθɪŋ]|SL-3|
+son: сын - [sʌn]|SL-3|
+soon :снова - [suːn]|SL-3|
+sound of thunder :звук грома - [ˈsaʊnd əv ˈθʌndə]|SL-3|
+space : космос - [speɪs]|SL-3|
+spaghetti : спагетти - [spəˈɡeti]|SL-3|
+Spain : Испания - [speɪn]|SL-3|
+special : особенный  - [ˈspeʃl̩]|SL-3|
+spell : произносить, писать побуквам - [spel]|SL-3|
+spend : проводить (время) - [spend]|SL-3|
+spider : паук - [ˈspaɪdə]|SL-3|
+spring : весна - [sprɪŋ]|SL-3|
+spy : шпион - [ˈspaɪ]|SL-3|
+stamp : топтать - [stæmp]|SL-3|
+stand : стоять - [stænd]|SL-3|
+stand up : вставать с места  - [stænd ˈʌp]|SL-3|
+star : звезда  - [stɑː]|SL-3|
+start : начинать(ся) - [stɑːt]|SL-3|
+stay : оставаться  - [steɪ]|SL-3|
+still : спокойный - [stɪl]|SL-3|
+stocking : чулок - [ˈstɒkɪŋ]|SL-3|
+stone : камень - [stəʊn]|SL-3|
+stop : останавливать(ся) - [stɒp]|SL-3|
+stove : печь, печка - [stəʊv]|SL-3|
+strange : странный - [streɪndʒ]|SL-3|
+strawberry : клубника - [ˈstrɔːbri]|SL-3|
+street:улица - [striːt]|SL-3|
+suddenly : неожиданно, вдруг - [sʌdn̩li]|SL-3|
+sugar : caxap - [ˈʃʊɡə]|SL-3|
+summer: лето - [ˈsʌmə]|SL-3|
+sun :солнце - [sʌn]|SL-3|
+sun cream : солнцезащитный крем - [ˈsʌn kriːm]|SL-3|
+Sunday : воскресенье - [ˈsʌndeɪ]|SL-3|
+sunny : солнечный - [ˈsʌni]|SL-3|
+supper : ужин - [ˈsʌpə]|SL-3|
+surprise : удивление - [səˈpraɪz]|SL-3|
+sushi :суши - [ˈsuːʃi]|SL-3|
+sweet : 1. конфета; 2. милый - [swiːt]|SL-3|
+sweet: сладкий, милый  - [swiːt]|SL-3|
+swim : плавать - [swɪm]|SL-3|
+table : стол - [ˈteɪbl̩]|SL-3|
+tail : хвост - [teɪl]|SL-3|
+take : брать - [ˈteɪk]|SL-3|
+take away : убирать  - [ˈteɪk əˈweɪ]|SL-3|
+take off : снимать (одежду) - [ˈteɪk ɒf]|SL-3|
+talent :талант - [ˈtælənt]|SL-3|
+talent show : шоу талантов  - [ˈtælənt ʃəʊ]|SL-3|
+tall :высокий - [tɔːl]|SL-3|
+taste : пробовать на вкус - [teɪst]|SL-3|
+tasty : вкусный - [ˈteɪsti]|SL-3|
+taxi : такси - [ˈtæksi]|SL-3|
+taxi driver : водитель такси - [ˈtæksi ˈdraɪvə]|SL-3|
+tea : чай - [tiː]|SL-3|
+teacher : учитель - [ˈtiːtʃə]|SL-3|
+team : команда - [tiːm]|SL-3|
+teddy bear: плюшевый медвежонок - [ˈtedi beə]|SL-3|
+tell : рассказывать  - [tel]|SL-3|
+ten : десять - [ten]|SL-3|
+tenth : десятый - [tenθ]|SL-3|
+thank you : спасибо - [θæŋk ju]|SL-3|
+They' re lovely! : Они прелестные!  - [ˈðeɪ ˌri: ˈlʌvli!]|SL-3|
+They're so funny! : Они такие смешные! - [ˈðeə ˈsəʊ ˈfʌni!]|SL-3|
+thing : вещь - [ˈθɪŋ]|SL-3|
+think : думать - [ˈθɪŋk]|SL-3|
+third : третий - [ˈθɜːd]|SL-3|
+thirteen : тринадцать - [ˌθɜːˈtiːn]|SL-3|
+thirty : тридцать - [ˈθɜːti]|SL-3|
+thirty-two : тридцать два - [ˈθɜːti ˈtuː]|SL-3|
+three : три - [θriː]|SL-3|
+thunder : гром - [ˈθʌndə]|SL-3|
+Thursday : четверг - [ˈθɜːzdeɪ]|SL-3|
+ride : кататься верхом - [raɪd]|SL-3|
+tide : прилив - [taɪd]|SL-3|
+time :время - [ˈtaɪm]|SL-3|
+tin : жестяная банка  - [ˈtɪn]|SL-3|
+tired : уставший - [ˈtaɪəd]|SL-3|
+toast : тост - [təʊst]|SL-3|
+together : вместе - [təˈɡeðə]|SL-3|
+tomato :помидор - [təˈmɑːtəʊ]|SL-3|
+tongue : язык - [tʌŋ]|SL-3|
+tonne : тонна - [tʌn]|SL-3|
+tooth : зуб - [tuːθ]|SL-3|
+top : верхушка  - [tɒp]|SL-3|
+touch : трогать - [tʌtʃ]|SL-3|
+tower : башня - [ˈtaʊə]|SL-3|
+town : город - [taʊn]|SL-3|
+toy : игрушка - [tɔɪ]|SL-3|
+toy shop : магазин игрушек - [tɔɪ ʃɒp]|SL-3|
+tractor : трактор - [ˈtræktə]|SL-3|
+train : поезд - [treɪn]|SL-3|
+trainers :кроссовки - [ˈtreɪnəz]|SL-3|
+tree : дерево  - [triː]|SL-3|
+triend : друг - [ˈfrend]|SL-3|
+trouble : неприятность - [ˈtrʌbl̩]|SL-3|
+trousers :брюки - [ˈtraʊzəz]|SL-3|
+true : настоящий; верно - [truː]|SL-3|
+Try your luck. : Испытай удачу  - [ˈtraɪ jə lʌk.]|SL-3|
+T-shirt : рубашка - [ˈtiː ʃɜːt]|SL-3|
+Tuesday :вторник - [ˈtjuːzdi]|SL-3|
+tummy : животик - [ˈtʌmi]|SL-3|
+turkey : индейка - [ˈtɜːki]|SL-3|
+turn : 1. очередь; 2. поворачивать - [tɜːn]|SL-3|
+turn around : поворачиваться  - [ˈtɜ:n əˈraʊnd]|SL-3|
+turn back : повернуть назад - [ˈtɜ:n ˈbæk]|SL-3|
+TV : телевизор - [ˌtiːˈviː]|SL-3|
+twelve : двенадцать  - [twelv]|SL-3|
+twenty : двадцать - [ˈtwenti]|SL-3|
+two : два - [ˈtuː]|SL-3|
+ugly : некрасивый, страшный - [ˈʌɡli]|SL-3|
+UK : Соединённое Королевство Великобритании - [ˌjuːˈkeɪ]|SL-3|
+under : под - [ˈʌndə]|SL-3|
+unfriendly : недружелюбный - [ˌʌnˈfrendli]|SL-3|
+until : до тех пор, пока - [ʌnˈtɪl]|SL-3|
+USA : CШA - [ˌju:ˌesˈeɪ]|SL-3|
+use : использовать - [ˈjuːs]|SL-3|
+usual :обычный - [ˈjuːʒʊəl]|SL-3|
+vase : ваза - [vɑːz]|SL-3|
+vegetable : овощ - [ˈvedʒɪtəbl̩]|SL-3|
+village : деревня - [ˈvɪlɪdʒ]|SL-3|
+wait : ждать - [weɪt]|SL-3|
+wake up : просыпаться, будить - [weɪk ʌp]|SL-3|
+walk : 1. прогулка; 2. идти пешком - [wɔːk]|SL-3|
+wall: стена - [wɔːl]|SL-3|
+want : хотеть, желать  - [ˈwɒnt]|SL-3|
+warm : тёплый - [wɔːm]|SL-3|
+wardrobe : шкаф для одежды - [ˈwɔːdrəʊb]|SL-3|
+warm wishes : наилучшие пожелания - [wɔ:m ˈwɪʃɪz]|SL-3|
+wash :мыть(ся) - [wɒʃ]|SL-3|
+watch : смотреть - [wɒtʃ]|SL-3|
+watch TV : смотреть телевизор - [ˈwɒtʃ ˌtiːˈviː]|SL-3|
+water :вода - [ˈwɔːtə]|SL-3|
+wave : махать - [weɪv]|SL-3|
+way: путь - [ˈweɪ]|SL-3|
+wear : носить (одежду) - [weə]|SL-3|
+weather : погода - [ˈweðə]|SL-3|
+Wednesday : среда - [ˈwenzdeɪ]|SL-3|
+weekend : выходные - [wiːkˈend]|SL-3|
+weight :вес - [weɪt]|SL-3|
+welcome : приветствовать - [ˈwelkəm]|SL-3|
+wet: мокрый - [wet]|SL-3|
+whale :кит - [weɪl]|SL-3|
+what :что - [ˈwɒt]|SL-3|
+What a mess! : Какой беспорядок! - [wɒt ə mes!]|SL-3|
+What does she look like? : Как она выглядит? - [wɒt dəz ˈʃi: ˈlʊk ˈlaɪk?]|SL-3|
+What is wrong with ...? : Что случилось с...? - [wɒt ɪz rɒn wɪð...?]|SL-3|
+What kind of ...? : Какой ...? - [wɒt kaɪnd ɒv...?]|SL-3|
+What's happening? : Что происходит? - [ˈwɒts ˈhæpənɪŋ?]|SL-3|
+What's he like? : Каков он из себя...? - [ˈwɒts ˈhi: ˈlaɪk?]|SL-3|
+What's the time? : Сколько времени? - [ˈwɒts ðə ˈtaɪm?]|SL-3|
+What's the weather like? : Какая погода? - [ˈwɒts ðə ˈweðə ˈlaɪk?]|SL-3|
+What's this? : Что это? - [ˈwɒts ðɪs?]|SL-3|
+What's your name? : Как тебя зовут? - [ˈwɒts jə ˈneɪm?]|SL-3|
+wheat : пшеница  - [ˈwiːt]|SL-3|
+wheel : колесо - [wiːl̩]|SL-3|
+where : где - [weə]|SL-3|
+which : который - [wɪtʃ]|SL-3|
+Which one ...? : Который (из)...? - [wɪtʃ wʌn...?]|SL-3|
+white : белый - [waɪt]|SL-3|
+who : кто - [ˈhuː]|SL-3|
+Who's got ... ? : У кого есть...? - [huːz ˈɡɒt...?]|SL-3|
+Who's that? : Кто это? - [huːz ðæt?]|SL-3|
+wife :жена - [waɪf]|SL-3|
+willow :ива - [ˈwɪləʊ]|SL-3|
+window : окно - [ˈwɪndəʊ]|SL-3|
+windy : ветреный - [ˈwindi]|SL-3|
+wing : крыло - [wɪŋ]|SL-3|
+winner : победитель - [ˈwɪnə]|SL-3|
+winter : зима - [ˈwɪntə]|SL-3|
+wolf : волк - [ˈwʊlf]|SL-3|
+woman : женщина - [ˈwʊmən]|SL-3|
+women : женщины - [ˈwɪmɪn]|SL-3|
+wonder : чудо - [ˈwʌndə]|SL-3|
+wonderful : чудесный - [ˈwʌndəfəl]|SL-3|
+wooden : деревянный - [ˈwʊdn̩]|SL-3|
+wool : шерсть - [wʊl]|SL-3|
+work hard : усердно работать  - [ˈwɜ:k hɑːd]|SL-3|
+work: 1. работа, 2. работать - [ˈwɜːk]|SL-3|
+world :мир - [wɜːld]|SL-3|
+worm: червяк - [wɜːm]|SL-3|
+worry : волноваться - [ˈwʌri]|SL-3|
+write : писать - [ˈraɪt]|SL-3|
+wrong : неверный - [rɒŋ]|SL-3|
+yawn : зевать - [jɔːn]|SL-3|
+yellow : жёлтый - [ˈjeləʊ]|SL-3|
+You can count on me! : Можешь на меня рассчитывать! - [ju kən kaʊnt ˈɒn miː!]|SL-3|
+young : молодой - [jʌŋ]|SL-3|
+You're welcome! : Пожалуйста!  - [jə ˈwelkəm!]|SL-3|
+
 
 
 
