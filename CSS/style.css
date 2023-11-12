@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(175, 216, 195);
     text-align: center;
     border-radius: 25px;
   }  
@@ -12,14 +12,17 @@ body {
     }
 
     input[type="text"] {
+      background-color: rgb(175, 216, 195);
       width: 50%;
-      padding: 10px;
+      padding: 20px;
       font-size: 16px;
       border-radius: 25px;
 
     }
 
+    
     ul {
+      
       list-style-type: none;
       padding: 0;
       margin-top: 10px;
@@ -29,7 +32,7 @@ body {
 
     li {
       border: 1px solid #ccc;
-      border-radius: 4px;
+      border-radius: 40px;
       padding: 10px;
       margin-bottom: 5px;
 
@@ -37,9 +40,8 @@ body {
 
 button {
     background-color: pink;
-    text-align: center;
     border-radius: 25px;
-    padding: 25px;
+    padding: 20px;
     margin-bottom: 5px; 
 }
 
