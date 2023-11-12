@@ -1,678 +1,759 @@
-a flash of lightning: вспышка молнии 
-a lot of: много
-a sweet tooth: сладкоежка
-a week later: неделю спустя 
-next week: на следующей неделе
-all: все (всё)
-All together now!: А сейчас все вместе!
-alphabet: алфавит
-and: (союз) и
-angry: злой
-animal: животное
-animal: животное
-answer: отвечать
-ant: муравей
-anything: всё что угодно, что-нибудь
-apple: яблоко
-arm: рука
-art: искусство
-ask: спрашивать
-ask for: просить что-то
-autumn: осень
-away: прочь
-baby: ребёнок
-ball: мяч
-basket: корзина
-bat: летучая мышь
-Be good!: Веди себя хорошо!
-beach: пляж
-bear: медведь
-beautiful: красивый
-bed: кровать
-bedroom: спальня
-bee: пчела
-bend: наклонять
-Bend your head: наклони голову
-best: самый лучший
-big: большой
-bike: велосипед
-bird: птица
-birthday: день рождения
-black: чёрный 
-blow: дуть, посылать (Воздушный поцелуй)
-blow out: задувать (свечи)
-blue: синий
-boat: лодка 
-body: тело
-bone: кость
-book: книга
-boot: ботинок
-boy: мальчик
-brother: брат
-brown: коричневый
-bucket: ведро
-bull: бык
-bumblebee: шмель
-bus: автобус
-but: (соЮз) но
-butterfly: бабочка
-buy: покупать
-by the sea: у моря
-bye: пока, до свидания
-café: кафе
-cake: торт
-call: звать
-can: мочь, уметь
-candle: свеча
-cap: кепка
-card: открытка
-carrot: морковь
-cat: кот, кошка
-catch: ловить
-caterpillar: гусеница
-chair: стул
-cheese: cыp
-cherry: вишня
-chicken: цыплёнок
-children: дети
-chimp: шимпанзе
-chips: жареный картофель
-chocolate: шоколад
-chocolate cake: шоколадный торт
-chrysalis: куколка
-circle: обводить в кружок
-city: город
-clap: хлопать
-Clap your hands.: Хлопайте в ладоши.
-clean: чистый
-climb: карабкаться, взбираться
-clock: часы
-close: закрывать
-Close the window.: Закрой окно.
-Close your eyes.: Закрой глаза.
-clothes: одежда
-cloud: облако
-clown: клоун
-coat: пальто
-cold: холодно
-colour: 1. цвет, 2. раскрашивать
-colour: раскрашивать
-colourful: цветной
-come: приходить
-come in: входить
-Come on!: Давай!
-complete: заканчивать, завершать
-computer: компьютер
-costume: костюм
-cottage: коттедж, загородный дом
-count: считать
-cow: корова
-crack: трескаться, раскалываться
-cry: плакать
-cup: чашка
-cupboard: шкаф для посуды
-cute: симпатичный, милый
-daddy: папа, папочка
-dance: танцевать
-dancer: танцор
-day: день 
-deep: глубокий
-dentist: зубной врач
-desk: парта
-dirty: грязный
-do: делать
-Do you like ...?: Тебе нравится ...? 
-doctor: доктор
-doctor: врач, доктор
-dog: собака
-dolphin: дельфин
-Don't cry.: Не плачь.
-Don't open the window!: He открывай окно!
-Don't be mean!: Не будь злым!
-door: дверь
-drama: пьеса
-draw: рисовать
-dress: платье
-drink: пить
-drive: вести машину
-drum: барабан
-duck: утка
-ear: yxo
-Easter: Пасха
-Easter bunny rabbit: пасхальный кролик
-eat: есть, кушать 
-egg: яйцо
-eight: восемь
-eighteen: восемнадцать
-elephant: слон
-eleven: одиннадцать
-elf: эльф
-English: английский
-everyone: все
-everywhere: везде
-excellent: отличный
-eye: глаз
-face: лицо
-fair hair: светлые волосы
-fair: светлый (о волосах)
-fall: падать
-fall down: упасть
-family: семья
-fantastic: невероятный
-farm: ферма
-fast: быстрый
-fat: толстый
-favourite: любимый
-favourite: любимый
-feel: чувствовать
-feet: ступни
-fifteen: пятнадцать
-fill: наполнять
-fill with: наполнять чем-либо
-find: находить
-fine: хороший
-fireworks: фейерверк
-fish: рыба
-fisherman: рыбак
-five: пять
-float: плыть
-floor: пол, этаж
-flower: цветок
-flower: цветок
-fly: летать
-foal: жеребёнок
-follow: следить, повторять
-food: еда
-fool: дурень
-foot: ступня
-for all the family: для всей семьи
-for hours: долго, часами  
-forest: лес
-fork: вилка
-forty: copokoш
-four fo: : четыре
-fourteen: четырнадцать
-fox: лиса
-fresh water: чистая вода
-Friday: пятница
-friend: друг
-frightened: испуганный
-frightening: пугающий
-frog: лягушка
-fruit: фрукт
-full: полный
-full of: полный чего-либо
-fun: веселье
-funny: смешной
-game: игра
-garden: сад
-garden: сад
-get ready: приготовиться
-ghost: привидение
-girl: девочка
-glass: стакан
-go: идти, ходить
-go away: уходить
-go back: возвращаться 
-go for a ride: поехать покататься 
-go for a walk: идти на прогулку, гулять
-go forward: идти вперёд 
-go home: идти домой
-go: ходить
-goal: гол (в футболе)
-goat: козёл
-gold: золото
-golden: золотой
-golden fish: золотая рыбка
-golden gəldǝn: золотой
-good: хороший
-Good morning!: Доброе утро!
-Goodnight.: Спокойной ночи.
-Great Britain: Великобритания
-Greece: Греция
-green: зелёный
-Greetings.: Приветствую.
-grey: серый
-grow: расти
-guard: охранник
-guitar: гитара
-guitar: гитара
-hair: волосы
-hand: рука (кисть)
-happy: счастливый
-Happy birthday!: С днём рождения!
-Happy New Year!: С Новым годом!
-happy: счастливый
-hard: твёрдый
-hare: заяц
-hat: шляпа
-hat: шляпа
-have got: иметь
-Have some tea.: Выпей чаю.
-head: голова
-headdress: головной убор 
-hear: слушать 
-Hello!: Здравствуйте!
-hen: курица
-Here you are.: Вот, пожалуйста.
-here: здесь
-He's no good for me!: Он мне не годится!
-Hi!: Привет!
-high: высокий
-high waves: сильные волны 
-home: дом
-homework: домашняя работа
-hoof: копыто
-hop: прыгать
-horn: рог
-horse show: конно-спортивный праздник
-horse: лошадь
-hot: горячий, жаркий
-hours: часы
-house: дом
-how: как
-How are you?: Как у тебя дела?
-How many ... are there?: Сколько там ...?
-How many?: Сколько?
-How old are you?: Сколько тебе лет?
-hurt: болеть
-I can sing!: Я умею петь!
-I don't know.: Я не знаю.
-I have got ...: У меня есть ...
-I know!: Я знаю!
-ice: лёд
-ice cream: мороженое
-iguana: игуана
-I'm fine.: У меня всё хорошо.
-I'm five.: Мне пять лет.
-important: важный
-in front of: (предлог) перед
-Is he in the kitchen?: Он на кухне?
-It's cold!: Холодно! 
-It's hot!: Жарко!
-It's lovely!: Прелестно!
-It's raining!: Идёт дождь! 
-It's snowing!: Идёт снег!
-It's sunny!: Солнечно! 
-jacket: куртка
-jaguar: ягуар
-jam: варенье
-Japan: Япония
-jar: банка
-jeans: джинсы
-jewellery: драгоценности
-join: соединять
-juice: cok
-jump: прыгать
-jumper: свитер, джемпер
-jungle: джунгли
-keep: оберегать
-kick: ударить ногой
-kilt: шотландская юбка (килт)
-kimono: кимоно
-kind: добрый
-king: король
-kiosk: киоск, ларёк
-kitchen: кухня
-kite: воздушный змей
-kitten: котёнок
-knee: колено
-kneel: становиться на колени
-kneel down: преклонять колени
-knife: нож
-know: знать
-koala: коала
-lake: озеро
-lamb: ягнёнок
-lamp: лампа
-land: земля
-lay eggs: откладывать яйца
-lay: класть
-leave: покидать
-leaves: листья
-leg: нога
-leg: нога
-let: давать возможность
-Let me see.: Дайте мне посмотреть.
-Let's play!: Давай поиграем!
-let's: давай
-let's: давай
-Let's go for a swim.: Пойдёмте купаться.
-life: жизнь
-lightning: молния
-like: любить, нравиться
-line lain: линия
-lion: лев
-listen: слушать
-little: маленький
-little: маленький
-little tail: хвостик
-live: жить
-living room: гостиная
-lollipop: леденец на палочке
-long: длинный
-look: смотреть
-look: смотреть Look! - Смотри!
-Look at me.: Посмотри на меня. 
-look happy: выглядеть счастливым 
-Look.: Посмотри.
-lots of: много
-love: любить
-lovely: красивый
-lunch: обед
-mad: сумасшедший
-magic: волшебный, сказочный
-magic friend: сказочный друг
-majesty: величество
-make: делать
-man: человек
-many: много
-match: находить соответствия
-maths: математика
-maybe: может быть
-maypole: майское дерево
-mean: злой
-meat: мясо
-meet: встречать(ся)
-meet: встречать (ся), познакомиться
-men: мужчины
-Mexico: Мексика
-milk: молоко
-miss a turn: пропускать ход
-monkey: обезьяна
-monster: монстр, чудовище
-monster: чудовище
-morning: утро
-Moscow: Москва
-mother: мама
-mouse: мышь
-mouth: рот
-Mr: мистер
-mummy: мамочка
-music: музыка
-My arm hurts.: У меня болит рука.
-My best nose!: Мой самый лучший
-my birthday: мой день рождения
-my body: моё тело
-my family: моя семья
-name: имя
-need: нуждаться
-new: новый
-night: ночь
-nine: девять
-nineteen: девятнадцать
-no: нет
-No more sweets.: Больше никаких сладостей.
-nod: кивать
-Nod your head.: Кивни головой.
-noise: шум
-nose: нос
-number: число
-nurse: медсестра
-nut: opex
-old: старый
-on: (предлог) на
-Open the door!: Открой дверь!
-Open your mouth!: Oткрой рот!
-open: открывать
-orange: 1. апельсин, 2. Оранжевый
-our school: наша школа
-our world: наш мир
-over there: Вон там
-pack: собирать вещи
-palace: дворец
-park: парк
-party: вечеринка
-paw: лапа
-paw: лапа
-pay: платить
-PE: физкультура
-pea: горошина
-pear: груша
-pen: ручка
-pet: домашний любимец
-phone: телефон
-photo: фото
-piano: пианино
-picture: картинка
-pink: розовый
-plane: самолёт
-plate: тарелка
-play football: играть в футбол
-play: играть
-please: пожалуйста
-point: указывать
-poor: бедный
-popcorn: попкорн
-potato: картофель
-present: подарок
-pretty: хорошенький
-pupil: ученик
-puppet: кукла
-puppy: щенок
-purple: фиолетовый
-purple: фиолетовый
-put: класть
-put on: надевать
-queen: королева
-question: вопрос
-quick: быстрый
-quickly: быстро
-rabbit: кролик
-rain: дождь
-read: читать
-ready: готовый
-Really well.: Очень хорошо.
-recorder: деревянная флейта
-rectangle: прямоугольник
-red: красный
-red: красный
-repeat: повторять
-rich: богатый
-ride: кататься верхом
-ride a bike: кататься на велосипеде
-right: правильный
-ring: звонить
-road: дорога
-robot: робот
-room: комната
-rope: верёвка
-rose: роза
-round: круглый 
-rubber: ластик
-rude: грубый
-run: бежать, бегать
-Russia: Россия
-sad: грустный
-sandwich: бутерброд
-say: сказать
-scarecrow: пугало
-school: школа
-Scotland: Шотландия
-scream: кричать
-sea: море 
-season: время года
-sell: продавать
-send: отправлять
-send away: отправлять прочь
-servant: слуга
-seven: семь
-seventeen: семнадцать
-shape: форма
-share еǝ: делиться
-sheep: овца
-shell: ракушка
-shine: светить
-ship: корабль
-shirt: рубашка
-shoe: туфля
-shop: магазин
-shorts: шорты
-shout: кричать
-sing: петь
-sister: сестра
-sit: сидеть
-sit down: садиться
-six: шесть
-sixteen: шестнадцать
-ski: кататься на лыжах
-sky: небо
-slap: ударять
-sleep: спать
-small: маленький
-snail: улитка
-snake: змея
-snappy: раздражительный
-snow: снег
-snowman: снеговик
-soap: мыло
-sock: носок
-song: песня
-sorry: сожалеть
-sound: звук
-Spain: Испания
-special day: особенный день
-spider: паук
-spring: весна
-square: квадрат
-stable: конюшня
-stamp: топать
-Stamp your feet.: Топай ногами.
-stand: стоять
-stand up: вставать
-star: звезда
-start: начинать
-sticker: наклейка
-stop: останавливаться
-storm: шторм
-story: рассказ
-strawberry: клубника
-strawberry: клубника
-strong: сильный
-student: ученик
-suddenly: вдруг
-summer: лето
-sun: солнце
-sunny: солнечный
-sunshine: солнечный свет 
-surf: заниматься сёрфингом
-sweet: 1. конфета, 2. сладкий
-sweet monster: сладкое чудовище
-sweets: сладости, конфеты
-swim: плавать
-swim: плавать
-table: стол
-tail: хвост
-take: брать
-take away: убирать, уносить
-take off: снимать
-take: брать
-talk: разговаривать
-tall: высокий
-tambourine: бубен
-tea: чай
-teacher: учитель
-teacup: чашка
-team: команда 
-teddy: медвежонок
-teeth: зубы
-tell: рассказывать
-ten: десять
-Thailand: Тайланд
-thank: благодарить
-Thank you.: Спасибо.
-Thanks.: Спасибо.
-that: 1. тот, 2. что
-That's right.: Правильно.
-the: определённый артикль
-theatre: театр
-there: там
-they: они
-They're good for me.: Они мне подходят: 
-think: думать
-thirteen: тринадцать
-This is for you.: Это для тебя.
-This is my mummy.: Это моя мамочка.
-this: это, эта, этот
-three: три
-throne: трон
-thunder: гром
-time: время
-time for tea: время чая
-today: сегодня
-together: вместе
-tomato: помидор
-tongue: язык
-too: тоже, также
-tooth: зуб
-town: город
-toy: игрушка
-trace: обводить по контуру
-traditional: традиционный
-train: поезд
-tree: дерево
-try: пробовать
-Try it!: Попробуй!
-T-shirt: футболка
-tummy: живот
-turn: ход
-turtle: черепаха
-TV: телевизор
-twelve: двенадцать
-twenty: двадцать
-two: два
-umbrella: зонт
-under: (предлог) под
-underground: под землёй
-use: употреблять
-vanilla: 1. ваниль, 2. ванильный
-vanilla ice cream: ванильное мороженое
-vegetable: овощ
-vest: жилет
-violet: риалка
-wait: ждать
-wall: стена
-want: хотеть
-water: вода
-wave: волна
-Wave your arms.: Помашите руками.
-way: путь
-wear: носить (одежду)
-weather: погода
-week: неделя
-well: хорошо
-wet: мокрый
-whale: кит
-what: что
-what: что
-What can I do for you?: – Что я могу для вас сделать?
-What is it?: Что это?
-What's the matter?: Что случилось?
-What's the weather like?: Какая погода?
-What's this?: Что это?
-where: где
-Where is ... from?: Откуда … (родом)?
-white: белый
-who: кто
-Who are you?: Кто ты?
-wife: жена
-window: окно
-winter: зима
-wish: 1. желание, 2. желать 
-with: (предлог) с
-wizard: волшебник
-word: слово
-work: 1. работа, 2. работать
-work hard: работать, не покладая рук
-work: работа, работать
-world: мир
-world: мир won
-worm: червяк
-write: писать
-yawn: зевать
-yellow: жёлтый
-yes: да
-You're good!: Ты хороший!
-You're so sweet now!: Сейчас ты такой сладкий!
-yo-yo: йо-йо (игрушка)
-zebra: зебра
+a flash of lightning : вспышка молнии  - [ə flæʃ əv ˈlaɪtn̩ɪŋ] |SL-2|
+a lot of  :много - [ə lɒt ɒv] |SL-2|
+a sweet tooth :сладкоежка - [ə ˈswi:t tuːθ] |SL-2|
+a week later : неделю спустя  - [ə wiːk ˈleɪtə] |SL-2|
+next week : на следующей неделе - [nekst wiːk] |SL-2|
+all : все (всё) - [ɔːl] |SL-2|
+All together now! : А сейчас все вместе! - [ɔ:l təˈɡeðə naʊ] |SL-2|
+alphabet : алфавит - [ˈælfəbet] |SL-2|
+and : (союз) и - [ænd] |SL-2|
+angry : злой - [ˈæŋɡri] |SL-2|
+animal : животное - [ˈænɪml̩] |SL-2|
+answer: отвечать - [ˈɑːnsə] |SL-2|
+ant : муравей - [ænt] |SL-2|
+anything : всё что угодно, что-нибудь - [ˈeniθɪŋ] |SL-2|
+apple : яблоко - [ˈæpl̩] |SL-2|
+arm : рука - [ɑːm] |SL-2|
+art : искусство - [ɑːt] |SL-2|
+ask : спрашивать - [ɑːsk] |SL-2|
+ask for:просить что-то - [ɑːsk fɔː] |SL-2|
+autumn : осень - [ˈɔːtəm] |SL-2|
+away :прочь - [əˈweɪ] |SL-2|
+baby : ребёнок - [ˈbeɪbi] |SL-2|
+ball : мяч - [bɔːl] |SL-2|
+basket : корзина - [ˈbɑːskɪt] |SL-2|
+bat : летучая мышь - [bæt] |SL-2|
+Be good! :Веди себя хорошо! - [bi ɡʊ] |SL-2|
+beach : пляж - [biːtʃ] |SL-2|
+bear : медведь - [beə] |SL-2|
+beautiful : красивый - [ˈbjuːtəfl̩] |SL-2|
+bed : кровать - [bed] |SL-2|
+bedroom :спальня - [ˈbedruːm] |SL-2|
+bee : пчела - [biː] |SL-2|
+bend : наклонять - [bend] |SL-2|
+Bend your head:наклони голову - [ˌbend jə hed] |SL-2|
+best : самый лучший - [best] |SL-2|
+big : большой - [bɪɡ] |SL-2|
+bike : велосипед - [baɪk] |SL-2|
+bird : птица - [bɜːd] |SL-2|
+birthday : день рождения - [ˈbɜːθdeɪ] |SL-2|
+black : чёрный  - [blæk] |SL-2|
+blow : дуть, посылать (Воздушный поцелуй) - [bləʊ] |SL-2|
+blow out : задувать (свечи) - [ˈbləʊ ˈaʊt] |SL-2|
+blue : синий - [bluː] |SL-2|
+boat : лодка  - [bəʊt] |SL-2|
+body : тело - [ˈbɒdi] |SL-2|
+bone : кость - [bəʊn] |SL-2|
+book : книга - [bʊk] |SL-2|
+boot : ботинок - [buːt] |SL-2|
+boy : мальчик - [<boy >] |SL-2|
+brother : брат - [ˈbrʌðə] |SL-2|
+brown : коричневый - [braʊn] |SL-2|
+bucket : ведро - [ˈbʌkɪt] |SL-2|
+bull : бык - [bʊl] |SL-2|
+bumblebee : шмель - [ˈbʌmblbiː] |SL-2|
+bus : автобус - [bʌs] |SL-2|
+but : (соЮз) но - [bʌt] |SL-2|
+butterfly : бабочка - [ˈbʌtəflaɪ] |SL-2|
+buy : покупать - [baɪ] |SL-2|
+by the sea : у моря - [ˈbaɪ ðə siː] |SL-2|
+bye : пока, до свидания - [baɪ] |SL-2|
+café : кафе - [ˈkæfeɪ] |SL-2|
+cake : торт - [keɪk] |SL-2|
+call : звать - [kɔːl] |SL-2|
+can : мочь, уметь - [kæn] |SL-2|
+candle : свеча - [<candle >] |SL-2|
+cap : кепка - [kæp] |SL-2|
+card : открытка - [kɑːd] |SL-2|
+carrot : морковь - [ˈkærət] |SL-2|
+cat : кот, кошка - [kæt] |SL-2|
+catch : ловить - [ˈkætʃ] |SL-2|
+caterpillar: гусеница - [ˈkætəpɪlə] |SL-2|
+chair : стул - [tʃeə] |SL-2|
+cheese : cыp - [tʃiːz] |SL-2|
+cherry : вишня - [ˈtʃeri] |SL-2|
+chicken : цыплёнок - [ˈtʃɪkɪn] |SL-2|
+children : дети - [ˈtʃɪldrən] |SL-2|
+chimp : шимпанзе - [tʃɪmp] |SL-2|
+chips : жареный картофель - [tʃɪps] |SL-2|
+chocolate :шоколад - [ˈtʃɒklət] |SL-2|
+chocolate cake : шоколадный торт - [ˌtʃɒklət keɪk] |SL-2|
+chrysalis : куколка - [ˈkrɪsəlɪs] |SL-2|
+circle : обводить в кружок - [ˈsɜːkl̩] |SL-2|
+city : город - [ˈsɪti] |SL-2|
+clap : хлопать - [klæp] |SL-2|
+Clap your hands. : Хлопайте в ладоши. - [klæp jə hændz] |SL-2|
+clean : чистый - [kliːn] |SL-2|
+climb : карабкаться, взбираться - [klaɪm] |SL-2|
+clock : часы - [<clock >] |SL-2|
+close : закрывать - [kləʊz] |SL-2|
+Close the window. : Закрой окно. - [kləʊs ðə ˈwɪndəʊ] |SL-2|
+Close your eyes. : Закрой глаза. - [kləʊs jə aɪz] |SL-2|
+clothes : одежда - [kləʊðz] |SL-2|
+cloud : облако - [klaʊd] |SL-2|
+clown : клоун - [klaʊn] |SL-2|
+coat : пальто - [ˈkəʊt] |SL-2|
+cold : холодно - [kəʊld] |SL-2|
+colour : 1. цвет, 2. раскрашивать - [ˈkʌlə] |SL-2|
+colourful : цветной - [ˈkʌləfəl] |SL-2|
+come : приходить - [ˈkʌm] |SL-2|
+come in : входить - [ˈkʌm ɪn] |SL-2|
+Come on! : Давай! - [ˈkʌm ɒn] |SL-2|
+complete : заканчивать, завершать - [kəmˈpliːt] |SL-2|
+computer : компьютер - [kəmˈpjuːtə] |SL-2|
+costume : костюм - [ˈkɒstjuːm] |SL-2|
+cottage : коттедж, загородный дом - [ˈkɒtɪdʒ] |SL-2|
+count : считать - [kaʊnt] |SL-2|
+cow : корова - [kaʊ] |SL-2|
+crack : трескаться, раскалываться - [kræk] |SL-2|
+cry : плакать - [kraɪ] |SL-2|
+cup : чашка - [kʌp] |SL-2|
+cupboard : шкаф для посуды - [ˈkʌbəd] |SL-2|
+cute : симпатичный, милый - [kjuːt] |SL-2|
+daddy : папа, папочка - [ˈdædi] |SL-2|
+dance : танцевать - [dɑːns] |SL-2|
+dancer : танцор - [ˈdɑːnsə] |SL-2|
+day : день  - [ˈdeɪ] |SL-2|
+deep : глубокий - [diːp] |SL-2|
+dentist : зубной врач - [ˈdentɪst] |SL-2|
+desk : парта - [desk] |SL-2|
+dirty : грязный - [ˈdɜːti] |SL-2|
+do : делать - [duː] |SL-2|
+Do you like ...? : Тебе нравится ...?  - [du: ju ˈlaɪk?] |SL-2|
+doctor : врач, доктор - [ˈdɒktə] |SL-2|
+dog : собака - [dɒɡ] |SL-2|
+dolphin : дельфин - [ˈdɒlfɪn] |SL-2|
+Don't cry. : Не плачь. - [dəʊnt kraɪ] |SL-2|
+Don't open the window! : He открывай окно! - [dəʊnt ˈəʊpən ðə ˈwɪndəʊ] |SL-2|
+Don't be mean! : Не будь злым! - [dəʊnt bi miːn] |SL-2|
+door : дверь - [dɔː] |SL-2|
+drama : пьеса - [ˈdrɑːmə] |SL-2|
+draw : рисовать - [drɔː] |SL-2|
+dress : платье - [dres] |SL-2|
+drink : пить - [drɪŋk] |SL-2|
+drive : вести машину - [draɪv] |SL-2|
+drum : барабан - [drʌm] |SL-2|
+duck: утка - [dʌk] |SL-2|
+ear : yxo - [ɪə] |SL-2|
+Easter : Пасха - [ˈiːstə] |SL-2|
+Easter bunny rabbit : пасхальный кролик - [ˈiːstə ˈbʌni ˈræbɪt] |SL-2|
+eat : есть, кушать  - [iːt] |SL-2|
+egg : яйцо - [eɡ] |SL-2|
+eight : восемь - [eɪt] |SL-2|
+eighteen : восемнадцать - [ˌeɪˈtiːn] |SL-2|
+elephant : слон - [ˈelɪfənt] |SL-2|
+eleven : одиннадцать - [ɪˈlevn̩] |SL-2|
+elf : эльф - [elf] |SL-2|
+English : английский - [ˈɪŋɡlɪʃ] |SL-2|
+everyone : все - [ˈevrɪwʌn] |SL-2|
+everywhere : везде - [ˈevrɪweə] |SL-2|
+excellent : отличный - [ˈeksələnt] |SL-2|
+eye : глаз - [aɪ] |SL-2|
+face : лицо - [feɪs] |SL-2|
+fair hair : светлые волосы - [feə heə] |SL-2|
+fair: светлый (о волосах) - [feə] |SL-2|
+fall : падать - [fɔːl] |SL-2|
+fall down : упасть - [fɔːl grey area] |SL-2|
+family :семья - [ˈfæmli] |SL-2|
+fantastic : невероятный - [fænˈtæstɪk] |SL-2|
+farm :ферма - [fɑːm] |SL-2|
+fast: быстрый - [fɑːst] |SL-2|
+fat: толстый - [fæt] |SL-2|
+favourite : любимый - [ˈfeɪvərɪt] |SL-2|
+feel : чувствовать - [fiːl] |SL-2|
+feet : ступни - [fiːt] |SL-2|
+fifteen : пятнадцать - [ˌfɪfˈtiːn] |SL-2|
+fill : наполнять - [fɪl] |SL-2|
+fill with : наполнять чем-либо - [fɪl wɪð] |SL-2|
+find : находить - [faɪnd] |SL-2|
+fine : хороший - [faɪn] |SL-2|
+fireworks : фейерверк - [ˈfaɪəwɜːks] |SL-2|
+fish : рыба - [fɪʃ] |SL-2|
+fisherman : рыбак - [ˈfɪʃəmən] |SL-2|
+five : пять - [faɪv] |SL-2|
+float : плыть - [fləʊt] |SL-2|
+floor : пол, этаж - [flɔː] |SL-2|
+flower : цветок - [ˈflaʊə] |SL-2|
+flower: цветок - [ˈflaʊə] |SL-2|
+fly : летать - [flaɪ] |SL-2|
+foal : жеребёнок - [fəʊl] |SL-2|
+follow : следить, повторять - [ˈfɒləʊ] |SL-2|
+food:еда - [fuːd] |SL-2|
+fool : дурень - [fuːl] |SL-2|
+foot : ступня - [fʊt] |SL-2|
+for all the family : для всей семьи - [fər ɔ:l ðə ˈfæmli] |SL-2|
+for hours : долго, часами   - [fə ˈaʊəz] |SL-2|
+forest :лес - [ˈfɒrɪst] |SL-2|
+fork: вилка - [fɔːk] |SL-2|
+forty : copokoш - [ˈfɔːti] |SL-2|
+four fo:: четыре - [ˌfɔ:r ˌefˈəʊ:] |SL-2|
+fourteen : четырнадцать - [ˌfɔːˈtiːn] |SL-2|
+fox : лиса - [fɒks] |SL-2|
+fresh water : чистая вода - [freʃ ˈwɔːtə] |SL-2|
+Friday : пятница - [ˈfraɪdeɪ] |SL-2|
+friend : друг - [ˈfrend] |SL-2|
+frightened :испуганный - [ˈfraɪtn̩d] |SL-2|
+frightening : пугающий - [ˈfraɪtn̩ɪŋ] |SL-2|
+frog : лягушка - [frɒɡ] |SL-2|
+fruit : фрукт - [fruːt] |SL-2|
+full : полный - [fʊl] |SL-2|
+full of : полный чего-либо - [ˈfʊl ɒv] |SL-2|
+fun: веселье - [fʌn] |SL-2|
+funny : смешной - [ˈfʌni] |SL-2|
+game: игра - [ɡeɪm] |SL-2|
+garden : сад - [ˈɡɑːdn̩] |SL-2|
+get ready : приготовиться - [ˈget ˈredi] |SL-2|
+ghost:привидение - [ɡəʊst] |SL-2|
+girl: девочка - [ɡɜːl] |SL-2|
+glass : стакан - [ˈɡlɑːs] |SL-2|
+go : идти, ходить - [ˈɡəʊ] |SL-2|
+go away : уходить - [ˈɡəʊ əˈweɪ] |SL-2|
+go back : возвращаться  - [ˈɡəʊ ˈbæk] |SL-2|
+go for a ride : поехать покататься  - [ˈɡəʊ fər ə raɪd] |SL-2|
+go for a walk : идти на прогулку, гулять - [ˈɡəʊ fər ə wɔːk] |SL-2|
+go forward : идти вперёд  - [ˈɡəʊ ˈfɔːwəd] |SL-2|
+go home : идти домой - [ˈɡəʊ həʊm] |SL-2|
+go: ходить - [ˈɡəʊ] |SL-2|
+goal:гол (в футболе) - [ɡəʊl] |SL-2|
+goat: козёл - [ɡəʊt] |SL-2|
+gold : золото - [ɡəʊld] |SL-2|
+golden : золотой - [ˈɡəʊldən] |SL-2|
+golden fish : золотая рыбка - [ˈɡəʊldən fɪʃ] |SL-2|
+golden: золотой - [ˈɡəʊldən] |SL-2|
+good : хороший - [ɡʊ] |SL-2|
+Good morning! : Доброе утро! - [gʊ ˈmɔːnɪŋ] |SL-2|
+Goodnight. : Спокойной ночи. - [ˌɡʊdˈnaɪt] |SL-2|
+Great Britain: Великобритания - [ˌgreɪt ˈbrɪtn̩] |SL-2|
+Greece : Греция - [ˈɡriːs] |SL-2|
+green : зелёный - [ˈɡriːn] |SL-2|
+Greetings. : Приветствую. - [ˈɡriːtɪŋz] |SL-2|
+grey:серый - [ɡreɪ] |SL-2|
+grow : расти - [ɡrəʊ] |SL-2|
+guard : охранник - [ɡɑːd] |SL-2|
+guitar : гитара - [ɡɪˈtɑː] |SL-2|
+guitar:гитара - [ɡɪˈtɑː] |SL-2|
+hair : волосы - [heə] |SL-2|
+hand: рука (кисть) - [hænd] |SL-2|
+happy : счастливый - [ˈhæpi] |SL-2|
+Happy birthday! : С днём рождения! - [ˈhæpi ˈbɜːθdeɪ] |SL-2|
+Happy New Year! : С Новым годом! - [ˌhæpi ˈnju: ˈjiə] |SL-2|
+happy: счастливый - [ˈhæpi] |SL-2|
+hard : твёрдый - [hɑːd] |SL-2|
+hare : заяц - [heə] |SL-2|
+hat : шляпа - [hæt] |SL-2|
+hat:шляпа - [hæt] |SL-2|
+have got : иметь - [həv ˈɡɒt] |SL-2|
+Have some tea. : Выпей чаю. - [həv səm tiː] |SL-2|
+head : голова - [hed] |SL-2|
+headdress : головной убор  - [ˈhed dres] |SL-2|
+hear : слушать  - [hɪə] |SL-2|
+Hello! : Здравствуйте! - [həˈləʊ] |SL-2|
+hen: курица - [hen] |SL-2|
+Here you are. : Вот, пожалуйста. - [hɪə ju ɑː] |SL-2|
+here: здесь - [hɪə] |SL-2|
+He's no good for me! : Он мне не годится! - [hiz ˈnəʊ gʊ fə miː] |SL-2|
+Hi! : Привет! - [haɪ] |SL-2|
+high : высокий - [haɪ] |SL-2|
+high waves : сильные волны  - [ˌhaɪ weɪvz] |SL-2|
+home: дом - [həʊm, hoʊm] |SL-2|
+homework : домашняя работа - [ˈhəʊmwɜːk] |SL-2|
+hoof : копыто - [huːf] |SL-2|
+hop:прыгать - [hɒp] |SL-2|
+horn : por - [hɔːn] |SL-2|
+horse show : конно-спортивный праздник - [hɔ:s ʃəʊ] |SL-2|
+horse: лошадь - [hɔːs] |SL-2|
+hot : горячий, жаркий - [hɒt] |SL-2|
+hours : часы - [ˈaʊəz] |SL-2|
+house : дом - [ˈhaʊs] |SL-2|
+how : как - [ˈhaʊ] |SL-2|
+How are you? : Как у тебя дела? - [ˌhaʊ ə ju?] |SL-2|
+How many ... are there? :Сколько там ...? - [ˈhaʊ məniə ðeə?] |SL-2|
+How many? : Сколько? - [ˈhaʊ məni?] |SL-2|
+How old are you? : Сколько тебе лет? - [ˌhaʊ əʊld ə ju?] |SL-2|
+hurt:болеть - [hɜːt] |SL-2|
+I can sing! : Я умею петь! - [ˈaɪ kən sɪŋ] |SL-2|
+I don't know. : Я не знаю. - [ˈaɪ dəʊnt ˈnəʊ] |SL-2|
+I have got ... : У меня есть ... - [ˈaɪ həv ˈɡɒt] |SL-2|
+I know! : Я знаю! - [ˈaɪ ˈnəʊ] |SL-2|
+ice : лёд - [aɪs] |SL-2|
+ice cream : мороженое - [ˈaɪs kri:m] |SL-2|
+iguana : игуана - [ɪˈɡwɑːnə] |SL-2|
+I'm fine. : У меня всё хорошо. - [aɪm faɪn] |SL-2|
+I'm five. : Мне пять лет. - [aɪm faɪv] |SL-2|
+important : важный - [ɪmˈpɔːtnt] |SL-2|
+in front of : (предлог) перед - [ɪn frʌnt ɒv] |SL-2|
+Is he in the kitchen? : Он на кухне? - [ɪz hɪ ɪn ðə ˈkɪtʃən] |SL-2|
+It's cold! : Холодно!  - [ˈɪts kəʊld] |SL-2|
+It's hot! : Жарко! - [ˈɪts hɒt] |SL-2|
+It's lovely! : Прелестно! - [ˈɪts ˈlʌvli] |SL-2|
+It's raining! : Идёт дождь!  - [ˈɪts ˈreɪnɪŋ] |SL-2|
+It's snowing! : Идёт снег! - [ˈɪts ˈsnəʊɪŋ] |SL-2|
+It's sunny! : Солнечно!  - [ˈɪts ˈsʌni] |SL-2|
+jacket : куртка - [ˈdʒækɪt] |SL-2|
+jaguar: ягуар - [ˈdʒæɡjʊə] |SL-2|
+jam : варенье - [dʒæm] |SL-2|
+Japan : Япония - [dʒəˈpæn] |SL-2|
+jar:банка - [dʒɑː] |SL-2|
+jeans: джинсы - [dʒiːnz] |SL-2|
+jewellery: драгоценности - [ˈdʒuːəlri] |SL-2|
+join: соединять - [dʒɔɪn] |SL-2|
+juice : cok - [dʒuːs] |SL-2|
+jump:прыгать - [dʒʌmp] |SL-2|
+jumper : свитер, джемпер - [ˈdʒʌmpə] |SL-2|
+jungle : джунгли - [ˈdʒʌŋɡl̩] |SL-2|
+keep : оберегать - [kiːp] |SL-2|
+kick: ударить ногой - [ˈkɪk] |SL-2|
+kilt : шотландская юбка (килт) - [kɪlt] |SL-2|
+kimono : кимоно - [kɪˈməʊnəʊ] |SL-2|
+kind: добрый - [kaɪnd] |SL-2|
+king: король - [kɪŋ] |SL-2|
+kiosk : киоск, ларёк - [ˈkiːɒsk] |SL-2|
+kitchen : кухня - [ˈkɪtʃən] |SL-2|
+kite : воздушный змей - [kaɪt] |SL-2|
+kitten : котёнок - [ˈkɪtn̩] |SL-2|
+knee : колено - [niː] |SL-2|
+kneel : становиться на колени - [niːl] |SL-2|
+kneel down : преклонять колени - [niːl grey area] |SL-2|
+knife : нож - [naɪf] |SL-2|
+know: знать - [ˈnəʊ] |SL-2|
+koala : коала - [kəʊˈɑːlə] |SL-2|
+lake : озеро - [leɪk] |SL-2|
+lamb : ягнёнок - [læm] |SL-2|
+lamp :лампа - [læmp] |SL-2|
+land : земля - [lænd] |SL-2|
+lay eggs : откладывать яйца - [ˈleɪ eɡz] |SL-2|
+lay: класть - [leɪ] |SL-2|
+leave : покидать - [liːv] |SL-2|
+leaves : листья - [liːvz] |SL-2|
+leg : нога - [leɡ] |SL-2|
+let : давать возможность - [let] |SL-2|
+Let me see. : Дайте мне посмотреть. - [ˈlet miː ˈsiː] |SL-2|
+Let's play! : Давай поиграем! - [lets ˈpleɪ] |SL-2|
+let's : давай - [lets] |SL-2|
+Let's go for a swim. : Пойдёмте купаться. - [lets ˈɡəʊ fər ə swɪm] |SL-2|
+life : жизнь - [ˈlaɪf] |SL-2|
+lightning : молния - [ˈlaɪtn̩ɪŋ] |SL-2|
+like : любить, нравиться - [ˈlaɪk] |SL-2|
+line lain: линия - [laɪn leɪn] |SL-2|
+lion : лев - [ˈlaɪən] |SL-2|
+listen: слушать - [ˈlɪsn̩] |SL-2|
+little : маленький - [ˈlɪtl̩] |SL-2|
+little tail : хвостик - [ˈlɪtl̩ teɪl] |SL-2|
+live : жить - [laɪv] |SL-2|
+living room : гостиная - [ˈlɪvɪŋ ru:m] |SL-2|
+lollipop : леденец на палочке - [ˈlɒlɪpɒp] |SL-2|
+long:длинный - [ˈlɒŋ] |SL-2|
+look : смотреть - [ˈlʊk] |SL-2|
+Look!:Смотри! - [ˈlʊk] |SL-2|
+Look at me. : Посмотри на меня.  - [ˈlʊk ət miː] |SL-2|
+look happy : выглядеть счастливым  - [ˈlʊk ˈhæpi] |SL-2|
+Look. : Посмотри. - [ˈlʊk] |SL-2|
+lots of : много - [lɒts ɒv] |SL-2|
+love : любить - [ˈlʌv] |SL-2|
+lovely : красивый - [ˈlʌvli] |SL-2|
+lunch : обед - [ˈlʌntʃ] |SL-2|
+mad : сумасшедший - [mæd] |SL-2|
+magic : волшебный, сказочный - [ˈmædʒɪk] |SL-2|
+magic friend : сказочный друг - [ˈmædʒɪk ˈfrend] |SL-2|
+majesty: величество - [ˈmædʒəsti] |SL-2|
+make : делать - [ˈmeɪk] |SL-2|
+man:человек - [θɜː] |SL-2|
+many :много - [ˈmeni] |SL-2|
+match: находить соответствия - [mætʃ] |SL-2|
+maths : математика - [mæθs] |SL-2|
+maybe : может быть - [ˈmeɪbiː] |SL-2|
+maypole : майское дерево - [ˈmeɪpəʊl] |SL-2|
+mean : злой - [miːn] |SL-2|
+meat:мясо - [miːt] |SL-2|
+meet: встречать (ся), познакомиться - [miːt] |SL-2|
+men:мужчины - [men] |SL-2|
+Mexico : Мексика - [ˈmeksɪkəʊ] |SL-2|
+milk:молоко - [mɪlk] |SL-2|
+miss a turn : пропускать ход - [mɪs ə tɜːn] |SL-2|
+monkey : обезьяна - [ˈmʌŋki] |SL-2|
+monster : монстр, чудовище - [ˈmɒnstə] |SL-2|
+monster: чудовище - [ˈmɒnstə] |SL-2|
+morning: утро - [ˈmɔːnɪŋ] |SL-2|
+Moscow : Москва - [ˈmɒskəʊ] |SL-2|
+mother : мама - [ˈmʌðə] |SL-2|
+mouse : мышь - [maʊs] |SL-2|
+mouth : рот - [maʊθ] |SL-2|
+Mr : мистер - [ˈmɪstə] |SL-2|
+mummy : мамочка - [ˈmʌmi] |SL-2|
+music : музыка - [ˈmjuːzɪk] |SL-2|
+My arm hurts. : У меня болит рука. - [maɪ ˈɑ:m hɜːts] |SL-2|
+My best nose! : Мой самый лучший - [maɪ best nəʊz] |SL-2|
+my birthday : мой день рождения - [maɪ ˈbɜːθdeɪ] |SL-2|
+my body : моё тело - [maɪ ˈbɒdi] |SL-2|
+my family : моя семья - [maɪ ˈfæmli] |SL-2|
+name: имя - [ˈneɪm] |SL-2|
+need : нуждаться - [niːd] |SL-2|
+new : новый - [njuː] |SL-2|
+night : ночь - [naɪt] |SL-2|
+nine : девять - [naɪn] |SL-2|
+nineteen : девятнадцать - [ˌnaɪnˈtiːn] |SL-2|
+no : HET - [nəʊ] |SL-2|
+No more sweets. : Больше никаких сладостей. - [ˈnəʊ mɔː swiːts] |SL-2|
+nod : кивать - [nɒd] |SL-2|
+Nod your head. : Кивни головой. - [nɒd jə hed] |SL-2|
+noise : шум - [nɔɪz] |SL-2|
+nose : нос - [nəʊz] |SL-2|
+number : число - [ˈnʌmbə] |SL-2|
+nurse : медсестра - [nɜːs] |SL-2|
+nut: opex - [nʌt] |SL-2|
+old :cтapый - [əʊld] |SL-2|
+on : (предлог) на - [ɒn] |SL-2|
+Open the door! : Открой дверь! - [ˈəʊpən ðə dɔː] |SL-2|
+Open your mouth! : Oткрой рот! - [ˈəʊpən jə maʊθ] |SL-2|
+open:открывать - [ˈəʊpən] |SL-2|
+orange : 1. апельсин, 2. Оранжевый - [ˈɒrɪndʒ] |SL-2|
+our school : наша школа - [ˈaʊə skuːl] |SL-2|
+our world : наш мир - [ˈaʊə wɜːld] |SL-2|
+over there : Вон там - [ˈəʊvə ðeə] |SL-2|
+pack: собирать вещи - [pæk] |SL-2|
+palace : дворец - [ˈpælɪs] |SL-2|
+park:парк - [pɑːk] |SL-2|
+party:вечеринка - [ˈpɑːti] |SL-2|
+paw : лапа - [pɔː] |SL-2|
+paw: лапа - [pɔː] |SL-2|
+pay: платить - [peɪ] |SL-2|
+PE : физкультура - [ˌpiːˈiː] |SL-2|
+pea: горошина - [piː] |SL-2|
+pear: груша - [peə] |SL-2|
+pen: ручка - [pen] |SL-2|
+pet : домашний любимец - [pet] |SL-2|
+phone :телефон - [fəʊn] |SL-2|
+photo : фото - [ˈfəʊtəʊ] |SL-2|
+piano : пианино - [pɪˈænəʊ] |SL-2|
+picture: картинка - [ˈpɪktʃə] |SL-2|
+pink:розовый - [pɪŋk] |SL-2|
+plane : самолёт - [pleɪn] |SL-2|
+plate : тарелка - [pleɪt] |SL-2|
+play football : играть в футбол - [pleɪ ˈfʊtbɔːl] |SL-2|
+play: играть - [ˈpleɪ] |SL-2|
+please : пожалуйста - [pliːz] |SL-2|
+point:указывать - [pɔɪnt] |SL-2|
+poor: бедный - [pɔː] |SL-2|
+popcorn : попкорн - [ˈpɒpkɔːn] |SL-2|
+potato : картофель - [pəˈteɪtəʊ] |SL-2|
+present: подарок - [prɪˈzent] |SL-2|
+pretty : хорошенький - [ˈprɪti] |SL-2|
+pupil: ученик - [ˈpjuːpl̩] |SL-2|
+puppet: кукла - [ˈpʌpɪt] |SL-2|
+puppy : щенок - [ˈpʌpi] |SL-2|
+purple : фиолетовый - [ˈpɜːpl̩] |SL-2|
+put : класть - [ˈpʊt] |SL-2|
+put on : надевать - [ˈpʊt ɒn] |SL-2|
+queen : королева - [kwiːn] |SL-2|
+question : вопрос - [ˈkwestʃən] |SL-2|
+quick: быстрый - [kwɪk] |SL-2|
+quickly : быстро - [ˈkwɪkli] |SL-2|
+rabbit : кролик - [ˈræbɪt] |SL-2|
+rain: дождь - [ˈreɪn] |SL-2|
+read: читать - [riːd] |SL-2|
+ready : готовый - [ˈredi] |SL-2|
+Really well. : Очень хорошо. - [ˈrɪəli wel] |SL-2|
+recorder : деревянная флейта - [rɪˈkɔːdə] |SL-2|
+rectangle : прямоугольник - [ˈrektæŋɡl̩] |SL-2|
+red :красный - [red] |SL-2|
+red: красный - [red] |SL-2|
+repeat : повторять - [rɪˈpiːt] |SL-2|
+rich : богатый - [rɪtʃ] |SL-2|
+ride : кататься верхом - [raɪd] |SL-2|
+ride a bike :кататься на велосипеде - [raɪd ə baɪk] |SL-2|
+right : правильный - [raɪt] |SL-2|
+ring : звонить - [rɪŋ] |SL-2|
+road: дорога - [rəʊd] |SL-2|
+robot : робот - [ˈrəʊbɒt] |SL-2|
+room : комната - [ruːm] |SL-2|
+rope: верёвка - [rəʊp] |SL-2|
+rose : роза - [rəʊz] |SL-2|
+round : круглый  - [ˈraʊnd] |SL-2|
+rubber : ластик - [ˈrʌbə] |SL-2|
+rude : грубый - [ruːd] |SL-2|
+run : бежать, бегать - [rʌn] |SL-2|
+Russia : Россия - [ˈrʌʃə] |SL-2|
+sad : грустный - [sæd] |SL-2|
+sandwich : бутерброд - [ˈsænwɪdʒ] |SL-2|
+say : сказать - [ˈseɪ] |SL-2|
+scarecrow : пугало - [ˈskeəkrəʊ] |SL-2|
+school: школа - [skuːl] |SL-2|
+Scotland : Шотландия - [ˈskɒtlənd] |SL-2|
+scream : кричать - [skriːm] |SL-2|
+sea : море  - [siː] |SL-2|
+season : время года - [ˈsiːzn̩] |SL-2|
+sell : продавать - [sel] |SL-2|
+send : отправлять - [send] |SL-2|
+send away : отправлять прочь - [ˈsend əˈweɪ] |SL-2|
+servant : слуга - [ˈsɜːvənt] |SL-2|
+seven : семь - [ˈsevn̩] |SL-2|
+seventeen : семнадцать - [ˌsevnˈtiːn] |SL-2|
+shape : форма - [ʃeɪp] |SL-2|
+share еǝ: делиться - [ˈʃeər <еǝ>] |SL-2|
+sheep : овца - [ʃiːp] |SL-2|
+shell: ракушка - [ʃel] |SL-2|
+shine : светить - [ʃaɪn] |SL-2|
+ship : корабль - [ʃɪp] |SL-2|
+shirt : рубашка - [ʃɜːt] |SL-2|
+shoe : туфля - [ʃuː] |SL-2|
+shop : магазин - [ʃɒp] |SL-2|
+shorts : шорты - [ʃɔːts] |SL-2|
+shout : кричать - [ʃaʊt] |SL-2|
+sing : петь - [sɪŋ] |SL-2|
+sister : сестра - [ˈsɪstə] |SL-2|
+sit : сидеть - [sɪt] |SL-2|
+sit down : садиться - [ˈsɪt grey area] |SL-2|
+sit: сидеть - [sɪt] |SL-2|
+six: шесть - [sɪks] |SL-2|
+sixteen : шестнадцать - [sɪkˈstiːn] |SL-2|
+ski : кататься на лыжах - [skiː] |SL-2|
+sky : небо - [skaɪ] |SL-2|
+sky: небо - [skaɪ] |SL-2|
+slap : ударять - [slæp] |SL-2|
+sleep : спать - [sliːp] |SL-2|
+small: маленький - [smɔːl] |SL-2|
+snail: улитка - [sneɪl] |SL-2|
+snake : змея - [sneɪk] |SL-2|
+snappy 'snæp::  раздражительный - [ˈsnæpi <snæp>:] |SL-2|
+snow: снег - [snəʊ] |SL-2|
+snowman : снеговик - [ˈsnəʊmæn] |SL-2|
+soap : мыло - [səʊp] |SL-2|
+sock: носок - [ˈsɒk] |SL-2|
+song: песня - [sɒŋ] |SL-2|
+sorry : сожалеть - [ˈsɒri] |SL-2|
+sound : звук - [ˈsaʊnd] |SL-2|
+Spain :Испания - [speɪn] |SL-2|
+special day : особенный день - [ˈspeʃl̩ ˈdeɪ] |SL-2|
+spider : паук - [ˈspaɪdə] |SL-2|
+spring : весна - [sprɪŋ] |SL-2|
+square : квадрат - [skweə] |SL-2|
+stable : конюшня - [ˈsteɪbl̩] |SL-2|
+stamp : топать - [stæmp] |SL-2|
+Stamp your feet. : Топай ногами. - [stæmp jə fiːt] |SL-2|
+stand : стоять - [stænd] |SL-2|
+stand up : вставать - [stænd ˈʌp] |SL-2|
+star: звезда - [stɑː] |SL-2|
+start: начинать - [stɑːt] |SL-2|
+sticker : наклейка - [ˈstɪkə] |SL-2|
+stop: останавливаться - [stɒp] |SL-2|
+storm : шторм - [stɔːm] |SL-2|
+story:рассказ - [ˈstɔːri] |SL-2|
+strawberry : клубника - [ˈstrɔːbri] |SL-2|
+strong : сильный - [strɒŋ] |SL-2|
+student :ученик - [ˈstjuːdnt] |SL-2|
+suddenly : вдруг - [sʌdn̩li] |SL-2|
+summer : лето - [ˈsʌmə] |SL-2|
+sun : солнце - [sʌn] |SL-2|
+sunny : солнечный - [ˈsʌni] |SL-2|
+sunshine : солнечный свет  - [ˈsʌnʃaɪn] |SL-2|
+surf: заниматься сёрфингом - [sɜːf] |SL-2|
+sweet : 1. конфета, 2. сладкий - [swiːt] |SL-2|
+sweet monster : сладкое чудовище - [ˈswi:t ˈmɒnstə] |SL-2|
+sweets : сладости, конфеты - [swiːts] |SL-2|
+swim : плавать - [swɪm] |SL-2|
+swim: плавать - [swɪm] |SL-2|
+table : стол - [ˈteɪbl̩] |SL-2|
+tail: хвост - [teɪl] |SL-2|
+take : брать - [ˈteɪk] |SL-2|
+take away : убирать, уносить - [ˈteɪk əˈweɪ] |SL-2|
+take off : снимать - [ˈteɪk ɒf] |SL-2|
+take: брать - [ˈteɪk] |SL-2|
+talk: разговаривать - [ˈtɔːk] |SL-2|
+tall: высокий - [tɔːl] |SL-2|
+tambourine : бубен - [ˌtæmbəˈriːn] |SL-2|
+tea : чай - [tiː] |SL-2|
+teacher: учитель - [ˈtiːtʃə] |SL-2|
+teacup : чашка - [ˈtiːkʌp] |SL-2|
+team: команда  - [tiːm] |SL-2|
+teddy:медвежонок - [ˈtedi] |SL-2|
+teeth : зубы - [tiːθ] |SL-2|
+tell : рассказывать - [tel] |SL-2|
+ten : десять - [ten] |SL-2|
+Thailand : Тайланд - [ˈtaɪlænd] |SL-2|
+thank : благодарить - [θæŋk] |SL-2|
+Thank you. :Спасибо. - [θæŋk ju] |SL-2|
+Thanks. : Спасибо. - [θæŋks] |SL-2|
+that:1. тот, 2. что - [ðæt] |SL-2|
+That's right. : Правильно. - [ðæts raɪt] |SL-2|
+the : определённый артикль - [ði:] |SL-2|
+theatre : театр - [ˈθɪətə] |SL-2|
+there : там - [ðeə] |SL-2|
+they:они - [ˈðeɪ] |SL-2|
+They're good for me. : Они мне подходят: - [ˈðeə gʊ fə miː] |SL-2|
+think: думать - [ˈθɪŋk] |SL-2|
+thirteen : тринадцать - [ˌθɜːˈtiːn] |SL-2|
+This is for you. : Это для тебя. - [ðɪs ɪz fə ju] |SL-2|
+This is my mummy. : Это моя мамочка. - [ðɪs ɪz maɪ ˈmʌmi] |SL-2|
+this: это, эта, этот - [ðɪs] |SL-2|
+three : три - [θriː] |SL-2|
+throne : трон - [θrəʊn] |SL-2|
+thunder : гром - [ˈθʌndə] |SL-2|
+time : время - [ˈtaɪm] |SL-2|
+time for tea : время чая - [ˈtaɪm fə tiː] |SL-2|
+today: сегодня - [təˈdeɪ] |SL-2|
+together : вместе - [təˈɡeðə] |SL-2|
+tomato : помидор - [təˈmɑːtəʊ] |SL-2|
+tongue : язык - [tʌŋ] |SL-2|
+too : тоже, также - [tuː] |SL-2|
+tooth : зуб - [tuːθ] |SL-2|
+town : город - [taʊn] |SL-2|
+toy: игрушка - [tɔɪ] |SL-2|
+trace : обводить по контуру - [treɪs] |SL-2|
+traditional : традиционный - [trəˈdɪʃn̩əl] |SL-2|
+train : поезд - [treɪn] |SL-2|
+tree: дерево - [triː] |SL-2|
+try : пробовать - [ˈtraɪ] |SL-2|
+Try it! : Попробуй! - [ˈtraɪ ˈɪt] |SL-2|
+T-shirt : футболка - [ˈtiː ʃɜːt] |SL-2|
+tummy : живот - [ˈtʌmi] |SL-2|
+turn : ход - [tɜːn] |SL-2|
+turtle : черепаха - [ˈtɜːtl̩] |SL-2|
+TV : телевизор - [ˌtiːˈviː] |SL-2|
+twelve : двенадцать - [twelv] |SL-2|
+twenty : двадцать - [ˈtwenti] |SL-2|
+two : два - [ˈtuː] |SL-2|
+umbrella : зонт - [ʌmˈbrelə] |SL-2|
+under : (предлог) под - [ˈʌndə] |SL-2|
+underground : под землёй - [ˈʌndəɡraʊnd] |SL-2|
+use : употреблять - [ˈjuːs] |SL-2|
+vanilla : 1. ваниль, 2. ванильный - [vəˈnɪlə] |SL-2|
+vanilla ice cream : ванильное мороженое - [vəˈnɪlə ˈaɪs kri:m] |SL-2|
+vegetable : овощ - [ˈvedʒɪtəbl̩] |SL-2|
+vest : жилет - [vest] |SL-2|
+violet :риалка - [ˈvaɪələt] |SL-2|
+wait : ждать - [weɪt] |SL-2|
+wall: стена - [wɔːl] |SL-2|
+want : хотеть - [ˈwɒnt] |SL-2|
+water : вода - [ˈwɔːtə] |SL-2|
+wave : волна - [weɪv] |SL-2|
+Wave your arms. : Помашите руками. - [weɪv jər ɑːmz] |SL-2|
+way : путь - [ˈweɪ] |SL-2|
+wear : носить (одежду) - [weə] |SL-2|
+weather : погода - [ˈweðə] |SL-2|
+week : неделя - [wiːk] |SL-2|
+well : хорошо - [wel] |SL-2|
+wet: мокрый - [wet] |SL-2|
+whale : кит - [weɪl] |SL-2|
+what : что - [ˈwɒt] |SL-2|
+What can I do for you? :– Что я могу для вас сделать? - [wɒt kən ˈaɪ du: fə ju?] |SL-2|
+What is it? : Что это? - [wɒt ɪz ˈɪt?] |SL-2|
+What's the matter? : Что случилось? - [ˈwɒts ðə ˈmætə?] |SL-2|
+What's the weather like? : Какая погода? - [ˈwɒts ðə ˈweðə ˈlaɪk?] |SL-2|
+What's this? : Что это? - [ˈwɒts ðɪs?] |SL-2|
+where : где - [weə] |SL-2|
+Where is ... from? : Откуда … (родом)? - [weər ɪz… frɒm?] |SL-2|
+white : белый - [waɪt] |SL-2|
+who : кто - [ˈhuː] |SL-2|
+Who are you? : Кто ты? - [ˈhuː ə ju?] |SL-2|
+wife : жена - [waɪf] |SL-2|
+window: окно - [ˈwɪndəʊ] |SL-2|
+winter : зима - [ˈwɪntə] |SL-2|
+wish : 1. желание, 2. желать  - [wɪʃ] |SL-2|
+with : (предлог) с - [wɪð] |SL-2|
+wizard : волшебник - [ˈwɪzəd] |SL-2|
+word : слово - [ˈwɜːd] |SL-2|
+work : 1. работа, 2. работать - [ˈwɜːk] |SL-2|
+work hard : работать, не покладая рук - [ˈwɜ:k hɑːd] |SL-2|
+work: работа, работать - [ˈwɜːk] |SL-2|
+world :мир - [wɜːld] |SL-2|
+worm: червяк - [wɜːm] |SL-2|
+write : писать - [ˈraɪt] |SL-2|
+yawn : зевать - [jɔːn] |SL-2|
+yellow : жёлтый - [ˈjeləʊ] |SL-2|
+yes : да - [jes] |SL-2|
+You're good! : Ты хороший! - [jə ɡʊ] |SL-2|
+You're so sweet now! : Сейчас ты такой сладкий! - [jə ˈsəʊ ˈswi:t naʊ] |SL-2|
+yo-yo: йо-йо (игрушка) - [ˈjəʊ jəʊ] |SL-2|
+zebra : зебра - [ˈzebrə] |SL-2|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
