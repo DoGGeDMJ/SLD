@@ -5,54 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SLD</title>
   <link rel="stylesheet" href="CSS/style.css">
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script>
-    function checkKey(event) {
-        if (event.keyCode === 13) { // Код клавиши Enter
-            document.getElementById("search-btn").click();
-        }
-    }
+  <script src="file.js"></script>
 
-</script>
-  
-  <script>  
-  
-  $(document).ready(function(){
-      $("#search-btn").click(function(){
-        var searchQuery = $("#search-input").val().toLowerCase();
-        $.get("dictionary.txt", function(data){
-          var lines = data.split("\n");
-          var results = [];
-          for(var i = 0; i < lines.length; i++){
-            var line = lines[i].toLowerCase();
-            if(line.indexOf(searchQuery) !== -1){
-              results.push(line);
-            }
-          }
-          var resultsHtml = "";
-          for(var j = 0; j < results.length; j++){
-            resultsHtml += "<li>" + results[j] + "</li>";
-          }
-          $("#search-results").html(resultsHtml);
-          
-        });
-      });
-    });
-  </script>
 </head>
 <body>
-  <h1>Starlight 2 Dictionary</h1>
-    <input type="text" id="search-input" placeholder="Search... "onkeydown="checkKey(event)" maxlength="50">
-  <button id="search-btn" onclick="search()">Translate</button>
-  <p id="errorMessage"></p>
-  <style>
-     input[type="text"] {
-      width: 50%;
-      padding: 20px;
-      font-size: 20px;
-    }
-  </style>
-  <ul id="search-results"></ul>
+  <h1>Starlight  Dictionary</h1>
+  <input type="text" id="searchInput" onkeydown="search(event)" maxlength="50">
+  <button onclick="search()">Search...</button>
+  <p id="searchResults"></p>
+  
+
+
 
 </body>
 <h5>Created by DoGGeD_MJ</h5>
