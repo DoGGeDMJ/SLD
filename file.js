@@ -4,7 +4,7 @@ function search(event) {
     }
     
     var searchInput = document.getElementById("searchInput");
-    var searchTerm = searchInput.value;
+    var searchTerm = searchInput.value.toLowerCase();
     var searchResults = document.getElementById("searchResults");
     if (searchTerm === '') {
       searchResults.innerText = "Type the word for searching";
