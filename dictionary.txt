@@ -5351,7 +5351,7 @@ win : - (v) - выиграть            [wɪn]        |SL-6|
 win a battle : (phr) выиграть сражение             [wɪn ə ˈbætl̩]        |SL-6|
 win a place in history : (phr) прославиться, обрести славу             [wɪn ə pleɪs ɪn ˈhɪstr̩i]        |SL-6|
 wind instrument : - (wd c) - духовой инструмент            [waɪnd ˈɪnstrʊmənt]        |SL-6|
-wind pattern : - (wd c) - роза ветров            [waɪnd ˈpætn̩]        |SL-6|
+wind pattern : - (wd c) - роза ветров            [wɪnd ˈpætn̩]        |SL-6|
 wing : - (n) - крыло            [wɪŋ]        |SL-6|
 withdraw money : (phr) снять деньги            [wɪðˈdrɔː ˈmʌni]        |SL-6|
 wolf : - (n) - волк            [ˈwʊlf]        |SL-6|
