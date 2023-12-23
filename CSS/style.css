@@ -1,55 +1,242 @@
+.header {
+	background-color: darkslategrey;
+	padding: 20px 0;
+	text-align: center;
+}
+.header__btn {
+	cursor: pointer;
+	color: white;
+	border: 1px solid yellowgreen;
+	padding: 10px 30px;
+	border-radius: 10px;
+	transition: 0.3s;
+	font-size: 40px;
+	background-color: transparent;
+}
+
+.header__btn_active,
+.header__btn:hover,
+.multi__link:hover {
+	background-color: darkblue;
+}
+
+
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+}
+
+.card {
+  border-radius: 25px;
+  border: 3px solid rgb(156, 83, 83);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 150px;
+  width: 250%;
+  font-size: 35px;
+}
+
+.button-back {
+  background-color: rgb(25, 170, 175);
+  border-radius: 10px;
+  color: #000000;
+  border: #cccccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+}
+.button-back:hover {
+  background-color: rgb(0, 195, 255);
+}
+
 body {
-    background-color: rgb(175, 216, 195);
-    text-align: center;
-    border-radius: 25px;
-    margin: 20px auto;
-  }  
+  color: rgb(119, 153, 181);
+  background-color: rgb(22, 32, 42);
+  text-align: center;
+  margin-left: 8%;
+  margin-right: 12%;
+}
 
+.button-create {
+  color: #000000;
+  border-radius: 25px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 30px;
+  cursor: pointer;
+}
+.button-create:hover {
+  background-color: rgb(0, 195, 255);
+}
 
-    .dictionary {
-        max-width: 100px;
-      
-    }
+.button-search {
+  color: #000000;
+  background-color: rgb(25, 170, 175);
+  border: rgb(119, 153, 181);
+  border-radius: 25px;
+  padding: 15px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 30px;
+  cursor: pointer;
+}
+.button-search:hover {
+  background-color: rgb(0, 195, 255);
+}
 
-    input[type="text"] {
-      background-color: rgb(175, 216, 195);
-      width: 50%;
-      padding: 20px;
-      font-size: 16px;
-      border-radius: 25px;
+.searching {
+  color: #000000;
+  border-color: #7a0606;
+  border-radius: 25px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 12px;
+  width: 40%;
+  background-color: rgb(119, 153, 181);
+  border: #067caa;
+}
 
-    }
-   
-    ul {
-      
-      list-style-type: none;
-      padding: 0;
-      
-      border-radius: 25px;
-    }
+.words_edit_list {
+  color: #000000;
+  border-radius: 25px;
+  border: salmon 20px;
+  background-color: rgb(119, 153, 181);
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin-right: 9%;
+  width: 97%;
+  height: 200px;
+}
 
-    li {
-      border: 1px solid #cccccc;
-      border-radius: 40px;
-      padding: 10px;
-      
+.button-dataclean {
+  color: #000000;
+  background-color: rgb(25, 170, 175);
+  border: #067caa;
+  border-radius: 25px;
+  padding: 15px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 30px;
+  cursor: pointer;
+}
+.button-dataclean:hover {
+  background-color: rgb(0, 195, 255);
+}
 
-    }
+.button-chooseall {
+  color: #000000;
+  background-color: rgb(25, 170, 175);
+  border: #067caa;
+  border-radius: 25px;
+  padding: 15px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 30px;
+  cursor: pointer;
+}
+.button-chooseall:hover {
+  background-color: rgb(0, 195, 255);
+}
 
-button {
-    background-color: rgb(192, 232, 255);
-    border-radius: 25px;
-    padding: 22px;
- 
+.button-memo {
+  color: #000000;
+  background-color: rgb(240, 166, 29);
+  border: #067caa;
+  border-color: #000000;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 3px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 30px;
+  cursor: pointer;
+}
+.button-memo:hover {
+  background-color: rgb(253, 249, 0);
 }
 
 button2 {
-  background-color: rgb(192, 232, 255);
+  background-color: rgb(25, 170, 175);
+  color: #000000;
   border-radius: 5px;
-  padding: 5px;
-
+  border: 1px solid #0c0202;
+  padding: 1px;
+  cursor: pointer;
+}
+button2:hover {
+  background-color: rgb(0, 195, 255);
 }
 
-.error {
-    color: red;
-  }
+.button-cardcreate {
+  color: #000000;
+  background-color: rgb(25, 170, 175);
+  border: rgb(119, 153, 181);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.button-cardcreate:hover {
+  background-color: rgb(253, 249, 0);
+}
+
+li {
+  cursor: pointer;
+}
+.hidden {
+  display: none;
+}
+
+.button-hide_show {
+  color: #000000;
+  background-color: rgb(25, 170, 175);
+  border: rgb(119, 153, 181);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.button-hide_show:hover {
+  background-color: rgb(0, 195, 255);
+}
+
+textarea::placeholder {
+  color: rgb(22, 32, 42);
+}
