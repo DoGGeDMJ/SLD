@@ -1,37 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SLD</title>
-  <link rel="stylesheet" href="CSS/style.css">
-  <script src="file.js"></script>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SLD</title>
+    <link rel="stylesheet" href="CSS/style.css" />
+    <script src="file.js"></script>
+    <script src="translate.js"></script>
+    <script src="lang.js"></script>
+  </head>
+  <header class="header">
+    <div class="container">
+      <button class="header__btn" data-btn="ru">Ru</button>
+      <button class="header__btn" data-btn="en">En</button>
+      <button class="header__btn" data-btn="de">De</button>
+    </div>
+  </header>
+  <main class="multi">
+    <div class="container">
+      <p class="multi__text" data-lang="home_page-1">
+        Первый параграф на стартовой странице
+      </p>
+      <p class="multi__text" data-lang="home_page-2">
+        Второй параграф на стартовой странице
+      </p>
+      <p class="multi__text" data-lang="home_page-3">
+        Третий параграф на стартовой странице
+      </p>
 
-</head>
-<body>
-  
-  <h1>Starlight  Dictionary</h1>
-  <input type="text" id="searchInput" onkeydown="search(event)" maxlength="50">
-  <button onclick="search()">Search...</button>
-  <p id="searchResults"></p>
-  <style>
-    p {
-      text-align: center
-          }
-  </style> 
 
-<h4>Edit List</h4>
-  <textarea style="background-color: rgb(187, 207, 196);" id="editList" rows="20" cols="50"></textarea>
-    <style>
-    p {
-      text-align: center
-          }
-    </style> 
+  <body>
+    <h1 class="lng-name">Starlight Dictionary</h1>
+    <input
+      class="searching"
+      type="text"
+      id="searchInput"
+      onkeydown="search(event)"
+      maxlength="70"
+      placeholder="type a (part of) the word for searching"
+    />
+    <button class="button-search" onclick="search()">Search...</button>
+    <p id="searchResults"></p>
 
+    <h4>Edit List</h4>
+    <textarea class="words_edit_list" id="editList"></textarea>
+    <br />
+    <button class="button-dataclean" onclick="clearData()">
+      Clean transcription
+    </button>
+    <button class="button-chooseall" onclick="copyData()">Make a copy</button>
+    <br />
 
-</body>
-<h5>Created by DoGGeD_MJ</h5>
-<h5>for Schools studying Starlight</h5>
+    <a href="memo.html"><button class="button-memo">Memo cards</button></a>
+    <script>
+      function clearData() {
+        const inputElement = document.getElementById("editList");
+        const inputValue = inputElement.value;
+        const cleanedValue = inputValue.replace(/\[\s*[^\]]*\]/g, "").trim();
+        inputElement.value = cleanedValue;
+      }
+      function copyData() {
+        const inputElement = document.getElementById("editList");
+        inputElement.select();
+        document.execCommand("copy");
+        <!--alert("Данные скопированы в буфер обмена!"); -->
+      }
+    </script>
+  </body>
+  <h5>Created by DoGGeD_MJ</h5>
+  <h5>
+    for Schools studying Starlight (Contains a dictionary from Starlight 2-8)
+  </h5>
+  <a href="http://t.me/DoGGeD_M">
+    <button class="button-memo">
+      If you didn't find a word here, send us a word with translation and we
+      will add it.
+    </button></a>
+    <button class="button-memo">RU</button></a>
+    <button class="button-memo">EN</button></a>
 
-<a href="http://t.me/DoGGeD_M" target="_blank" >Telegram</a> 
 </html>

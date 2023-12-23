@@ -5,36 +5,36 @@ function search(event) {
   var searchInput = document.getElementById("searchInput");
   var searchTerm = searchInput.value.toLowerCase();
   var searchResults = document.getElementById("searchResults");
-  if (searchTerm === '') {
+  if (searchTerm === "") {
     searchResults.innerText = "Type the word for searching";
     return;
   }
-  
+
   searchInput.value = "";
-  
+
   var xhr = new XMLHttpRequest();
-  xhr.onreadystatechange = function() {
+  xhr.onreadystatechange = function () {
     if (xhr.readyState === 4 && xhr.status === 200) {
-      var dictionary = xhr.responseText.split('\n');
+      var dictionary = xhr.responseText.split("\n");
       var matches = [];
-      
+
       for (var i = 0; i < dictionary.length; i++) {
         var entry = dictionary[i].toLowerCase();
         if (entry.includes(searchTerm)) {
           matches.push(dictionary[i]);
         }
       }
-      
+
       if (matches.length > 0) {
-        searchResults.innerHTML = ''
-        matches.forEach(match => {
-          var p = document.createElement('p');
+        searchResults.innerHTML = "";
+        matches.forEach((match) => {
+          var p = document.createElement("p");
           p.textContent = match;
-          var button = document.createElement('button2');
-          button.textContent = 'Add';
-          button.onclick = function() {
-            document.getElementById('editList').value += match + '\n';
-          }
+          var button = document.createElement("button2");
+          button.textContent = "Add";
+          button.onclick = function () {
+            document.getElementById("editList").value += match + "\n";
+          };
           p.appendChild(button);
           searchResults.appendChild(p);
         });
@@ -43,7 +43,17 @@ function search(event) {
       }
     }
   };
-  
+
   xhr.open("GET", "dictionary.txt", true);
   xhr.send();
+}
+
+function toggleList() {
+  var listElement = document.getElementById("myList");
+
+  if (listElement.classList.contains("hidden")) {
+    listElement.classList.remove("hidden");
+  } else {
+    listElement.classList.add("hidden");
+  }
 }

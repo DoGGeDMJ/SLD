@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Memo</title>
+  <link rel="stylesheet" href="CSS/style.css">
+  <script src="file.js"></script>
+  <script src="translate.js"></script>
+  <script src="lang.js"></script>
+
+    <style>
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 65%;
+        margin: 0 auto;
+      }
+    </style>
+
+<style>
+  #wordList {
+    width: 102%;
+    height: 300px;
+    background-color: rgb(187, 207, 196);
+  }
+</style>
+
+<!-- Скрипт для скрытой подсказки в листе часть 1 -->
+<script>
+  function hidePlaceholder() {
+      var textarea = document.getElementById('wordList');
+      textarea.placeholder = '';
+  }
+</script>
+
+  </head>
+  <header>
+    <div class="center"> 
+    <h1>Memo cards</h1>
+  </div>
+    <div class="menu">
+      <!-- Переход на главную -->
+      <a href="index.html"><button class="button-memo" >Starlight  Dictionary</button></a>
+      <!-- Кнопка скрыть список -->
+      <button onclick="generateCards()" class="button-hide_show">Create cards</button>
+      <br>
+      <button class="button-hide_show" onclick="shuffleCards()">Mix</button>
+      <label for="displayType">Show me:</label>
+      
+      <select style="background-color: rgb(119,153,181);;" id="displayType">
+        <option value="word" >English</option>
+        <option value="translation">Russian</option>
+              </select>
+       <button class="button-hide_show" onclick="toggleList()">Hide/Show</button> 
+
+
+  </header>
+  <body>
+    <title>Memo cards</title>
+    
+    <div class="container">
+      <button class="button-back" onclick="showPrevious()">Back</button>    
+      <div id="cards-container" class="container"></div>
+      <button class="button-back" onclick="showNext()">Next</button> 
+      <br>
+    </div>
+
+
+<!-- Скрипт скрытия списка  -->
+    <script>
+      function toggleList() {
+        var textarea = document.getElementById("wordList");
+        if (textarea.style.display === "none") {
+          textarea.style.display = "block";
+        } else {
+          textarea.style.display = "none";
+        }
+      }
+    </script>  
+
+
+
+    <label for="wordList">List:</label>
+ 
+    <br>
+    <textarea id="wordList" style="width: 102%; height: 300px; background-color: rgb(119,153,181);" placeholder="cat :: кошка ; dog :: собака ; и т.д."></textarea>
+<!-- Скрипт для скрытой подсказки в листе часть 2 -->   
+<script>
+  var textarea = document.getElementById('wordList');
+  textarea.addEventListener('focus', hidePlaceholder);
+</script>
+
+    <br>
+    <button class="button-dataclean" onclick="clearData()">Clean transcription</button>
+<script>
+  function clearData() {
+    const inputElement = document.getElementById("wordList");
+    const inputValue = inputElement.value;
+    const cleanedValue = inputValue.replace(/\[\s*[^\]]*\]/g, "").trim();
+    inputElement.value = cleanedValue;
+  }
+</script>
+
+    
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+  <script>
+    let cards = [];
+    let currentCardIndex = 0;
+
+    function generateCards() {
+      const wordList = document.getElementById('wordList').value;
+      const displayType = document.getElementById('displayType').value;
+      cards = wordList.split(';').filter(Boolean).map(pair => {
+        const [word, translation] = pair.trim().split('::');
+        return { word, translation };
+      });
+
+      currentCardIndex = 0;
+      displayCard(displayType);
+    }
+
+    function displayCard(displayType) {
+      const cardsContainer = document.getElementById('cards-container');
+      cardsContainer.innerHTML = '';
+
+      const card = document.createElement('div');
+      card.classList.add('card');
+      card.textContent = displayType === 'word' ? cards[currentCardIndex].word : cards[currentCardIndex].translation;
+      card.addEventListener('click', () => toggleCard(card, displayType));
+
+      cardsContainer.appendChild(card);
+    }
+
+    function toggleCard(card, displayType) {
+      const currentCard = cards[currentCardIndex];
+      const temp = displayType === 'word' ? currentCard.word : currentCard.translation;
+      
+      if (card.textContent === temp) {
+        card.textContent = displayType === 'word' ? currentCard.translation : currentCard.word;
+      } else {
+        card.textContent = temp;
+      }
+    }
+
+    function showPrevious() {
+      currentCardIndex = (currentCardIndex - 1 + cards.length) % cards.length;
+      displayCard(document.getElementById('displayType').value);
+    }
+
+    function showNext() {
+      currentCardIndex = (currentCardIndex + 1) % cards.length;
+      displayCard(document.getElementById('displayType').value);
+    }
+
+
+
+    function shuffleCards() {
+      let currentIndex = cards.length, randomIndex;
+  
+      while (currentIndex !== 0) {
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+
+        [cards[currentIndex], cards[randomIndex]] = [
+          cards[randomIndex], cards[currentIndex]];
+      }
+  
+      displayCard(document.getElementById('displayType').value);
+    }
+  </script>
+
+
+
+
+
+  </body>
+
+
+
+</html>
